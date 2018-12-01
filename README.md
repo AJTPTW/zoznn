@@ -1,4 +1,5 @@
 用 技 术 做 一 些 你 感 兴 趣 的 事 情
+
 https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/20181010101348661eb162791f0d33ac562ed7a7bac362d67.exe
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/2018101010144967415a4cec29f8fe7d584f88dfea5e780402.exe
@@ -16,11 +17,17 @@ https://laod.cn/hosts/2018-google-hosts.html
 https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns
 
 sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
+
 sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
+
 sc start SuperCMD 
+
 net user administrator /active:yes
+
 net user administrator /active:no 
+
 %AppData%\Microsoft\Internet Explorer\Quick Launch
+
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/2018101418201512510ac68b05d84cf7645e127688a0445143.zip clibor
 
 http://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
