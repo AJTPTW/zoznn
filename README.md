@@ -30,7 +30,7 @@ net user administrator /active:no
 
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/2018101418201512510ac68b05d84cf7645e127688a0445143.zip clibor
 
-http://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
+https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 http://down.360safe.com/cse/360cse_11.0.1183.0.exe
 http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe
 https://www.voidtools.com
