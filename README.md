@@ -4,6 +4,8 @@ https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/20181010101348661eb162791f0d33ac562ed7a7bac362d67.exe
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/2018101010144967415a4cec29f8fe7d584f88dfea5e780402.exe
 
+https://bayfiles.com/SaVcY8m2b3/_exe
+
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/2018102115542524783f61b03b578237c1f11b9506c2986b8d.zip Firewall Blocker
 
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/201810211557172769d52cf4e28ffac6507fd8bc869a2d1cae.exe 7z1805-x64
