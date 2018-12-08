@@ -42,19 +42,26 @@ net user administrator /active:no
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/2018101418201512510ac68b05d84cf7645e127688a0445143.zip clibor
 
 https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
-http://down.360safe.com/cse/360cse_11.0.1183.0.exe
+
 http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe
+
 https://www.voidtools.com
-https://www.nocmd.com/432.html  Uninstall Tool
 
 https://www.7-zip.org/a/7z1805-x64.exe
+
 https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe
+
 http://downloads.wisecleaner.com/soft/WPMSetup.exe
+
 https://geekuninstaller.com/geek.7z
+
 https://www.sordum.org/files/small-tools/TopMost.zip
+
 http://www.sordum.org/files/firewall-app-blocker/fab.zip
+
 http://www.sordum.org/files/bluelife-host-editor/bl_hst_edit.zip
-http://www.everedit.cn/download
+
+
 可在线安装2.1.9版本 http://download.se.360.cn/ext/googlehelp_2.1.9.crx
 下载最新2.3.0版本 http://www.ggfwzs.com/230/chrome.zip
 https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 false
@@ -99,7 +106,7 @@ https://m.weibo.cn/u/6444530202   OneDNS
 chrome://restart
 117.50.11.11
 117.50.22.22
-https://www.google.cn/chrome/beta/?system=true&standalone=1   Chrome 测试版
+https://www.google.cn/chrome/beta/?system=true&standalone=1 Chrome 测试版
 https://www.google.cn/chrome/dev/?standalone=1 Google Chrome Dev
 https://www.mozilla.org/en-US/firefox/nightly/all/?q=Chinese Firefox Nightly 简体
 https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 中文 (简体)
