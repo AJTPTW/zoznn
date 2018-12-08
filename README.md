@@ -3,15 +3,27 @@
 https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/20181010101348661eb162791f0d33ac562ed7a7bac362d67.exe
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/2018101010144967415a4cec29f8fe7d584f88dfea5e780402.exe
+
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/2018102115542524783f61b03b578237c1f11b9506c2986b8d.zip Firewall App Blocker
+
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/201810211557172769d52cf4e28ffac6507fd8bc869a2d1cae.exe 7z1805-x64
+
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/20181103110715605921e55705a94cfc029caed4e7956a1b78.zip TopMost
+
 https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe AutoClicker
+
 http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
+
 https://www.nocmd.com/432.html Uninstall Tool
+
+https://www.nocmd.com/722.html CCleaner
+
 https://www.chuyu.me Dism++
+
 https://www.majorgeeks.com/mg/getmirror/pc_hunter,1.html PC Hunter
-https://github.com/haotian-wang/google-access-helper/archive/master.zip  
+
+https://github.com/haotian-wang/google-access-helper/archive/master.zip 
+
 https://laod.cn/hosts/2018-google-hosts.html
 https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns
 
@@ -34,7 +46,7 @@ http://down.360safe.com/cse/360cse_11.0.1183.0.exe
 http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe
 https://www.voidtools.com
 https://www.nocmd.com/432.html  Uninstall Tool
-https://www.nocmd.com/722.html  CCleaner
+
 https://www.7-zip.org/a/7z1805-x64.exe
 https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe
 http://downloads.wisecleaner.com/soft/WPMSetup.exe
