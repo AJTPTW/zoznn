@@ -71,7 +71,7 @@ http://www.sordum.org/files/bluelife-host-editor/bl_hst_edit.zip
 
 下载最新2.3.0版本 http://www.ggfwzs.com/230/chrome.zip
 
-https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 chrome 71
+https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 Chrome 71
 
 https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 中文 64
 
