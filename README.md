@@ -50,6 +50,8 @@ https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内�
 
 http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe BaiduPiny
 
+http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
+
 https://www.voidtools.com
 
 https://www.7-zip.org/a/7z1805-x64.exe
@@ -61,8 +63,6 @@ http://downloads.wisecleaner.com/soft/WPMSetup.exe
 https://geekuninstaller.com/geek.7z
 
 https://www.sordum.org/files/small-tools/TopMost.zip
-
-http://www.sordum.org/files/firewall-app-blocker/fab.zip
 
 http://www.sordum.org/files/bluelife-host-editor/bl_hst_edit.zip
 
