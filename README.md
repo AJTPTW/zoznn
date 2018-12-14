@@ -2,6 +2,14 @@
 
 https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 
+http://tmp.link/d/5c13d121c0f3d
+
+http://tmp.link/f/5c13d121c0f3d
+
+https://drop.me/MDmLzm
+
+https://dl.drop.me/download/oK8dxdU7kw98aGTY2V0IotAjLtNxhx5PEgCWTD2jQ8A=
+
 https://cdn-08.bayfiles.com/SaVcY8m2b3/1b713683-1544697665/%E8%BD%AF%E5%AA%92%E8%AE%BE%E7%BD%AE%E5%A4%A7%E5%B8%88.exe
 
 https://bayfiles.com/SaVcY8m2b3/_exe
