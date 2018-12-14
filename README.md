@@ -10,6 +10,7 @@ https://drop.me/MDmLzm
 
 https://dl.drop.me/download/oK8dxdU7kw98aGTY2V0IotAjLtNxhx5PEgCWTD2jQ8A=
 
+https://www.sordum.org/11081/hide-from-uninstall-list-v1-0/
 
 https://bayfiles.com/SaVcY8m2b3
 
