@@ -14,7 +14,11 @@ https://www.sordum.org/11081/hide-from-uninstall-list-v1-0/
 
 https://bayfiles.com/SaVcY8m2b3
 
-https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe AutoClicker
+https://www.7-zip.org/a/7z1805-x64.exe
+
+https://www.majorgeeks.com/mg/getmirror/pc_hunter,1.html PC Hunter
+
+http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
 http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
 
@@ -23,10 +27,6 @@ https://www.nocmd.com/432.html Uninstall Tool
 https://www.nocmd.com/722.html CCleaner
 
 https://www.chuyu.me Dism++
-
-https://www.majorgeeks.com/mg/getmirror/pc_hunter,1.html PC Hunter
-
-http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
 https://github.com/haotian-wang/google-access-helper/archive/master.zip 
 
@@ -54,7 +54,7 @@ http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe Baid
 
 https://www.voidtools.com
 
-https://www.7-zip.org/a/7z1805-x64.exe
+https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe AutoClicker
 
 https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe
 
