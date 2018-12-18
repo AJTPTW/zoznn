@@ -34,7 +34,7 @@ https://github.com/haotian-wang/google-access-helper/archive/master.zip
 
 https://laod.cn/hosts/2018-google-hosts.html
 
-https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns
+https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns Autoruns for Windows v13.93
 
 sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
 
