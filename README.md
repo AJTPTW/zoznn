@@ -14,7 +14,9 @@ https://bayfiles.com/SaVcY8m2b3
 
 https://www.sordum.org/11081/hide-from-uninstall-list-v1-0/ HideUL
 
-https://www.7-zip.org/a/7z1805-x64.exe
+https://www.7-zip.org/a/7z1805-x64.exe 7-zip
+
+https://www.voidtools.com Everything
 
 https://www.majorgeeks.com/mg/getmirror/pc_hunter,1.html PC Hunter
 
@@ -51,8 +53,6 @@ http://p2s2tpkky.bkt.clouddn.com/index_filebed/2018101418201512510ac68b05d84cf76
 https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
 http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe BaiduPiny
-
-https://www.voidtools.com
 
 https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe AutoClicker
 
