@@ -30,7 +30,7 @@ https://www.nocmd.com/722.html CCleaner
 
 https://www.chuyu.me Dism++
 
-https://github.com/haotian-wang/google-access-helper/archive/master.zip 
+https://github.com/haotian-wang/google-access-helper/releases
 
 https://laod.cn/hosts/2018-google-hosts.html
 
@@ -73,6 +73,8 @@ http://www.sordum.org/files/bluelife-host-editor/bl_hst_edit.zip
 https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 Chrome 71
 
 https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platform=WIN64_MSI&channel=stable&usagestats=0 chrome msi
+
+https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platform=WIN64_MSI&channel=stable&usagestats=0
 
 https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 64
 
