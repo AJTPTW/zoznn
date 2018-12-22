@@ -66,14 +66,15 @@ https://www.sordum.org/files/small-tools/TopMost.zip
 
 http://www.sordum.org/files/bluelife-host-editor/bl_hst_edit.zip
 
-
 可在线安装2.1.9版本 http://download.se.360.cn/ext/googlehelp_2.1.9.crx
 
 下载最新2.3.0版本 http://www.ggfwzs.com/230/chrome.zip
 
 https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 Chrome 71
 
-https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 中文 64
+https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platform=WIN64_MSI&channel=stable&usagestats=0 chrome msi
+
+https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 64
 
 
 @echo off
