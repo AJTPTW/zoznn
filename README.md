@@ -12,13 +12,11 @@ https://dl.drop.me/download/oK8dxdU7kw98aGTY2V0IotAjLtNxhx5PEgCWTD2jQ8A=
 
 https://bayfiles.com/SaVcY8m2b3
 
-
-
-https://www.7-zip.org/a/7z1805-x64.exe 7-zip
+http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
 https://www.majorgeeks.com/mg/getmirror/pc_hunter,1.html PC Hunter
 
-http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
+https://www.7-zip.org/a/7z1805-x64.exe 7-zip
 
 http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
 
@@ -55,8 +53,6 @@ net user administrator /active:no
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/2018101418201512510ac68b05d84cf7645e127688a0445143.zip clibor
 
 https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
-
-
 
 https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe AutoClicker
 
