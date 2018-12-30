@@ -62,11 +62,10 @@ net user administrator /active:no
 
 %AppData%\Microsoft\Internet Explorer\Quick Launch
 
-http://p2s2tpkky.bkt.clouddn.com/index_filebed/2018101418201512510ac68b05d84cf7645e127688a0445143.zip clibor
+
 
 https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe AutoClicker
 
-https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe
 
 http://www.sordum.org/files/bluelife-host-editor/bl_hst_edit.zip
 
