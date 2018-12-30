@@ -30,9 +30,21 @@ https://www.voidtools.com Everything
 
 https://www.chuyu.me Dism++
 
-https://www.sordum.org/11081/hide-from-uninstall-list-v1-0/ HideUL
+https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
+
+https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 Chrome 71
+
+https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platform=WIN64_MSI&channel=stable&usagestats=0 chrome msi
+
+https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platform=WIN64_MSI&channel=stable&usagestats=0
+
+https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 64
 
 https://github.com/haotian-wang/google-access-helper/releases
+
+可在线安装2.1.9版本 http://download.se.360.cn/ext/googlehelp_2.1.9.crx
+
+下载最新2.3.0版本 http://www.ggfwzs.com/230/chrome.zip
 
 https://laod.cn/hosts/2018-google-hosts.html
 
@@ -52,32 +64,19 @@ net user administrator /active:no
 
 http://p2s2tpkky.bkt.clouddn.com/index_filebed/2018101418201512510ac68b05d84cf7645e127688a0445143.zip clibor
 
-https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
-
 https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe AutoClicker
 
 https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe
 
-http://downloads.wisecleaner.com/soft/WPMSetup.exe
+http://www.sordum.org/files/bluelife-host-editor/bl_hst_edit.zip
 
-https://geekuninstaller.com/geek.7z
+https://www.sordum.org/11081/hide-from-uninstall-list-v1-0/ HideUL
+
+http://downloads.wisecleaner.com/soft/WPMSetup.exe
 
 https://www.sordum.org/files/small-tools/TopMost.zip
 
-http://www.sordum.org/files/bluelife-host-editor/bl_hst_edit.zip
-
-可在线安装2.1.9版本 http://download.se.360.cn/ext/googlehelp_2.1.9.crx
-
-下载最新2.3.0版本 http://www.ggfwzs.com/230/chrome.zip
-
-https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 Chrome 71
-
-https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platform=WIN64_MSI&channel=stable&usagestats=0 chrome msi
-
-https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platform=WIN64_MSI&channel=stable&usagestats=0
-
-https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 64
-
+https://geekuninstaller.com/geek.7z
 
 @echo off
 
