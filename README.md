@@ -33,6 +33,7 @@ https://www.chuyu.me Dism++
 https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
 https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 Chrome 71
+https://www.google.cn/chrome/thank-you.html?platform=win64&standalone=1&statcb=0&installdataindex=empty
 
 https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platform=WIN64_MSI&channel=stable&usagestats=0 chrome msi
 
