@@ -16,7 +16,7 @@ http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
 https://www.majorgeeks.com/mg/getmirror/pc_hunter,1.html PC Hunter
 
-https://www.7-zip.org/a/7z1805-x64.exe 7-zip
+https://www.7-zip.org/a/7z1806-x64.exe 7-zip
 
 http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
 
