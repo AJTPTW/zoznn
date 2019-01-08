@@ -12,13 +12,15 @@ https://dl.drop.me/download/oK8dxdU7kw98aGTY2V0IotAjLtNxhx5PEgCWTD2jQ8A=
 
 https://bayfiles.com/SaVcY8m2b3
 
-http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
-
 https://www.majorgeeks.com/mg/getmirror/pc_hunter,1.html PC Hunter
+
+http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
 https://www.7-zip.org/a/7z1806-x64.exe 7-zip
 
 http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
+
+https://static.pzhacm.org/shuax/GreenChrome6.6.4.zip
 
 http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe BaiduPiny
 
