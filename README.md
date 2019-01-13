@@ -36,6 +36,8 @@ https://www.chuyu.me Dism++
 
 https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
+https://www.ccava.net/post/787.html 360极速浏览器11.0.1331.0 绿色精简优化便携版
+
 https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 Chrome 71
 https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win64  beta
 
