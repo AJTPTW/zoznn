@@ -18,6 +18,8 @@ http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
 https://www.7-zip.org/a/7z1806-x64.exe 7-zip
 
+https://www.wintools.info/Download/integritydl.exe  Integrity Downloader
+
 http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
 
 https://static.pzhacm.org/shuax/GreenChrome6.6.4.zip
