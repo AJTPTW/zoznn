@@ -22,7 +22,7 @@ https://www.wintools.info/Download/integritydl.exe  Integrity Downloader
 
 http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
 
-https://static.pzhacm.org/shuax/GreenChrome6.6.4.zip
+https://shuax.com/gc
 
 http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe BaiduPiny
 
