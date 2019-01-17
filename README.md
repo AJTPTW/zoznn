@@ -24,7 +24,11 @@ http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
 
 https://shuax.com/gc GreenChrome
 
+https://zyhh.me/download/TaskBarHider.zip TaskBarHider V0.0.5
+
 http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe BaiduPiny
+
+https://mofang.ruanmei.com/ 软媒魔方官网
 
 https://www.nocmd.com/432.html Uninstall Tool
 
