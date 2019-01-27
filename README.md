@@ -28,7 +28,7 @@ https://zyhh.me/delphi/taskbarhider.html TaskBarHider V0.0.5
 
 http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe BaiduPiny
 
-https://mofang.ruanmei.com/ 软媒魔方官网
+https://mofang.ruanmei.com/ 软媒魔方官网https://d.ruanmei.com/pcmaster/pcmaster_6.21_full.zip
 
 https://www.lanzous.com/b24931/ Uninstall Tool
 
