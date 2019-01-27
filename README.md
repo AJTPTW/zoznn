@@ -36,6 +36,8 @@ https://www.voidtools.com Everything
 
 https://www.chuyu.me Dism++
 
+https://www.huorong.cn 火绒安全软件
+
 https://www.wintools.info/Download/integritydl.exe  Integrity Downloader
 
 https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
