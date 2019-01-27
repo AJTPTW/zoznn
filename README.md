@@ -30,9 +30,9 @@ http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe Baid
 
 https://mofang.ruanmei.com/ 软媒魔方官网
 
-https://www.nocmd.com/432.html Uninstall Tool
+https://www.lanzous.com/b24931/ Uninstall Tool
 
-https://www.nocmd.com/722.html CCleaner
+https://www.lanzous.com/b22558/ CCleaner
 
 https://www.voidtools.com Everything
 
