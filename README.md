@@ -18,8 +18,6 @@ http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
 https://www.7-zip.org/a/7z1806-x64.exe 7-zip
 
-https://www.wintools.info/Download/integritydl.exe  Integrity Downloader
-
 http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
 
 https://shuax.com/gc GreenChrome
@@ -37,6 +35,8 @@ https://www.lanzous.com/b22558/ CCleaner
 https://www.voidtools.com Everything
 
 https://www.chuyu.me Dism++
+
+https://www.wintools.info/Download/integritydl.exe  Integrity Downloader
 
 https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
