@@ -55,9 +55,9 @@ https://www.mozilla.org/en-US/firefox/beta/all/?q=Chinese Firefox Beta
 
 https://github.com/haotian-wang/google-access-helper/releases
 
-可在线安装2.1.9版本 http://download.se.360.cn/ext/googlehelp_2.1.9.crx
+ http://download.se.360.cn/ext/googlehelp_2.1.9.crx 可在线安装2.1.9版本
 
-下载最新2.3.0版本 http://www.ggfwzs.com/230/chrome.zip
+ http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
 https://laod.cn/hosts/2018-google-hosts.html
 
