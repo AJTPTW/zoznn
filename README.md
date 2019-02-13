@@ -46,7 +46,7 @@ https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内�
 https://www.ccava.net/post/787.html 360极速浏览器11.0.1331.0 绿色精简优化便携版
 
 https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 72
-https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win  beta 72
+https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win  beta 73
 
 https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platform=WIN64_MSI&channel=stable&usagestats=0 chrome msi
 
