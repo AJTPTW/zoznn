@@ -3,6 +3,7 @@
 https://github.com/AJTPTW/zoznn/archive/master.zip
 
 > https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
+
  http://tmp.link/d/5c13d121c0f3d
 
 http://tmp.link/f/5c13d121c0f3d
