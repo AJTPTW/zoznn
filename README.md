@@ -1,7 +1,8 @@
 用 技 术 做 一 些 你 感 兴 趣 的 事 情
 
-https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 https://github.com/AJTPTW/zoznn/archive/master.zip
+
+https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 
 http://tmp.link/d/5c13d121c0f3d
 
