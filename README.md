@@ -13,7 +13,7 @@ https://dl.drop.me/download/oK8dxdU7kw98aGTY2V0IotAjLtNxhx5PEgCWTD2jQ8A=
 
 https://bayfiles.com/SaVcY8m2b3
 
-https://www.majorgeeks.com/mg/getmirror/pc_hunter,1.html PC Hunter
+https://www.lanzous.com/i321dva PC Hunter
 
 http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
