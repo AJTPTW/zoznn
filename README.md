@@ -2,7 +2,7 @@
 
 *https://github.com/AJTPTW/zoznn/archive/master.zip*
 
-`> https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
+` > https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 
  > http://tmp.link/d/5c13d121c0f3d
 
@@ -12,7 +12,7 @@
 
 > https://dl.drop.me/download/oK8dxdU7kw98aGTY2V0IotAjLtNxhx5PEgCWTD2jQ8A=
 
-> https://bayfiles.com/SaVcY8m2b3`
+> https://bayfiles.com/SaVcY8m2b3 `
 
 https://www.lanzous.com/i321dva PC Hunter
 
