@@ -2,9 +2,9 @@
 
 *https://github.com/AJTPTW/zoznn/archive/master.zip*
 
-` > https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
+> https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 
- > http://tmp.link/d/5c13d121c0f3d
+> http://tmp.link/d/5c13d121c0f3d
 
 > http://tmp.link/f/5c13d121c0f3d
 
@@ -12,15 +12,15 @@
 
 > https://dl.drop.me/download/oK8dxdU7kw98aGTY2V0IotAjLtNxhx5PEgCWTD2jQ8A=
 
-> https://bayfiles.com/SaVcY8m2b3 `
+> https://bayfiles.com/SaVcY8m2b3 
 
-`https://www.lanzous.com/i321dva PC Hunter
+https://www.lanzous.com/i321dva PC Hunter
 
 http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
 https://www.7-zip.org/a/7z1806.exe 7-zip
 
-http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup`
+http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
 
 https://shuax.com/gc GreenChrome
 
