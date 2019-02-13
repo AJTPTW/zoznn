@@ -14,13 +14,13 @@
 
 > https://bayfiles.com/SaVcY8m2b3 `
 
-https://www.lanzous.com/i321dva PC Hunter
+`https://www.lanzous.com/i321dva PC Hunter
 
 http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
 https://www.7-zip.org/a/7z1806.exe 7-zip
 
-http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
+http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup`
 
 https://shuax.com/gc GreenChrome
 
