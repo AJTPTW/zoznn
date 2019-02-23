@@ -24,6 +24,8 @@ http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
 
 https://shuax.com GreenChrome
 
+ http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
+
 https://zyhh.me/delphi/taskbarhider.html TaskBarHider V0.0.5
 
 http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe BaiduPiny
@@ -61,8 +63,6 @@ https://www.mozilla.org/en-US/firefox/beta/all/?q=Chinese Firefox Beta 66
 https://github.com/haotian-wang/google-access-helper/releases
 
  http://download.se.360.cn/ext/googlehelp_2.1.9.crx 可在线安装2.1.9版本
-
- http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
 https://laod.cn/hosts/2018-google-hosts.html
 
