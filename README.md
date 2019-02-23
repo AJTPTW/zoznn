@@ -18,7 +18,7 @@ https://www.lanzous.com/i321dva PC Hunter
 
 http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
-https://www.7-zip.org/a/7z1806-x64.exe 7-zip
+https://www.7-zip.org/a/7z1900-x64.exe 7-zip 19
 
 http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
 
