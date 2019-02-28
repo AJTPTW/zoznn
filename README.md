@@ -14,7 +14,6 @@
 
 > https://bayfiles.com/SaVcY8m2b3 
 
-https://www.lanzous.com/i321dva PC Hunter
 
 http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
@@ -22,15 +21,13 @@ https://www.7-zip.org/a/7z1900-x64.exe 7-zip 19
 
 http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
 
+http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
+
+https://www.lanzous.com/i321dva PC Hunter
+
 https://shuax.com GreenChrome
 
- http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
-
 https://zyhh.me/delphi/taskbarhider.html TaskBarHider V0.0.5
-
-http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe BaiduPiny
-
-https://mofang.ruanmei.com/ 软媒魔方官网https://d.ruanmei.com/pcmaster/pcmaster_6.21_full.zip
 
 https://www.lanzous.com/b24931/ Uninstall Tool
 
@@ -41,6 +38,10 @@ https://www.voidtools.com Everything
 https://www.chuyu.me Dism++
 
 https://www.huorong.cn 火绒安全软件
+
+http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe BaiduPiny
+
+https://mofang.ruanmei.com/ 软媒魔方官网https://d.ruanmei.com/pcmaster/pcmaster_6.21_full.zip
 
 https://www.wintools.info/Download/integritydl.exe  Integrity Downloader
 
