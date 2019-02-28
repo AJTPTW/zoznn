@@ -25,7 +25,7 @@ http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
 https://www.lanzous.com/i321dva PC Hunter
 
-https://shuax.com GreenChrome
+https://shuax.com/project/mouseinc/ GreenChrome
 
 https://zyhh.me/delphi/taskbarhider.html TaskBarHider V0.0.5
 
@@ -39,6 +39,8 @@ https://www.chuyu.me Dism++
 
 https://www.huorong.cn 火绒安全软件
 
+https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 72
+
 http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe BaiduPiny
 
 https://mofang.ruanmei.com/ 软媒魔方官网https://d.ruanmei.com/pcmaster/pcmaster_6.21_full.zip
@@ -48,8 +50,6 @@ https://www.wintools.info/Download/integritydl.exe  Integrity Downloader
 https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
 https://www.ccava.net/post/787.html 360极速浏览器11.0.1331.0 绿色精简优化便携版
-
-https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 72
 
 https://www.google.cn/intl/en-us/chrome/beta/?system=true&standalone=1&platform=win Beta 73
 
