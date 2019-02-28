@@ -68,7 +68,9 @@ https://github.com/haotian-wang/google-access-helper/releases
 https://laod.cn/hosts/2018-google-hosts.html
 
 https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns Autoruns for Windows v13.93
+
 net user 123 /delete
+
 sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
 
 sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
@@ -81,10 +83,7 @@ net user administrator /active:no
 
 %AppData%\Microsoft\Internet Explorer\Quick Launch
 
-
-
 https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe AutoClicker
-
 
 http://www.sordum.org/files/bluelife-host-editor/bl_hst_edit.zip
 
