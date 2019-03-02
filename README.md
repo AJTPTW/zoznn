@@ -41,6 +41,8 @@ https://www.huorong.cn 火绒安全软件
 
 https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 72
 
+https://bbs.twinkstar.com/forum.php?mod=viewthread&tid=43&extra=page%3D1 星愿浏览器：Twinkstar_v4.11.2000.1901
+
 http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe BaiduPiny
 
 https://mofang.ruanmei.com/ 软媒魔方官网https://d.ruanmei.com/pcmaster/pcmaster_6.21_full.zip
