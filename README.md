@@ -17,10 +17,6 @@
 
 http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
-https://www.7-zip.org/a/7z1900-x64.exe 7-zip 19
-
-http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
-
 http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
 https://www.lanzous.com/i321dva PC Hunter
@@ -29,13 +25,17 @@ https://shuax.com/project/mouseinc/ GreenChrome
 
 https://zyhh.me/delphi/taskbarhider.html TaskBarHider V0.0.5
 
+https://www.chuyu.me Dism++
+
 https://www.lanzous.com/b24931/ Uninstall Tool
 
 https://www.lanzous.com/b22558/ CCleaner
 
-https://www.voidtools.com Everything
+https://www.7-zip.org/a/7z1900-x64.exe 7-zip 19
 
-https://www.chuyu.me Dism++
+http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
+
+https://www.voidtools.com Everything
 
 https://www.huorong.cn 火绒安全软件
 
