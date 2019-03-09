@@ -35,9 +35,9 @@ https://www.7-zip.org/a/7z1900-x64.exe 7-zip 19
 
 http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
 
-https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exeEverythinghttps://www.voidtools.com 
+https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe Everything https://www.voidtools.com 
 
-https://www.huorong.cn/downfull4.html?1552039549火绒安全软件https://www.huorong.cn 
+https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.huorong.cn 
 
 https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 72
 
