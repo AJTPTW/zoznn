@@ -29,7 +29,7 @@ https://www.chuyu.me Dism++
 
 https://www.lanzous.com/b24931/ Uninstall Tool
 
-https://www.lanzous.com/b22558/ CCleaner
+https://www.lanzous.com/b22558/ CCleaner https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
 
 https://www.7-zip.org/a/7z1900-x64.exe 7-zip 19
 
