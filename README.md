@@ -39,7 +39,7 @@ https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe Everything https://
 
 https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.huorong.cn 
 
-https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 72
+https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 73
 
 https://bbs.twinkstar.com/forum.php?mod=viewthread&tid=43&extra=page%3D1 星愿浏览器：Twinkstar_v4.11.2000.1901
 
