@@ -59,9 +59,8 @@ https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platfo
 
 https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platform=WIN64_MSI&channel=stable&usagestats=0
 
-https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 65
-
-https://www.mozilla.org/en-US/firefox/beta/all/?q=Chinese Firefox Beta 66
+https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 66
+https://www.mozilla.org/en-US/firefox/beta/all/?q=Chinese Firefox Beta 67
 
 https://github.com/haotian-wang/google-access-helper/releases
 
