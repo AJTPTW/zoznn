@@ -43,7 +43,8 @@ https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 73
 
 http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe 百度拼音输入法
 
-http://config.qqpy.sogou.com/QQinput/download/dl?t=wb QQ五笔 http://qq.pinyin.cn/index_wubi.php
+http://cdn.qq.ime.sogou.com/ce246dc2218ac71f96096869e5e1fc74/5c91aa58/QQWubi_Setup_2.2.344.400.exe
+ QQ五笔 http://qq.pinyin.cn/index_wubi.php
 
 
 
