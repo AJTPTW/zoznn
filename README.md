@@ -41,9 +41,13 @@ https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.
 
 https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 73
 
-https://bbs.twinkstar.com/forum.php?mod=viewthread&tid=43&extra=page%3D1 星愿浏览器：Twinkstar_v4.11.2000.1901
+http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe 百度拼音输入法
 
-http://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.4.4920.0.exe BaiduPiny
+http://config.qqpy.sogou.com/QQinput/download/dl?t=wb QQ五笔 http://qq.pinyin.cn/index_wubi.php
+
+
+
+https://bbs.twinkstar.com/forum.php?mod=viewthread&tid=43&extra=page%3D1 星愿浏览器：Twinkstar_v4.11.2000.1901
 
 https://mofang.ruanmei.com/ 软媒魔方官网https://d.ruanmei.com/pcmaster/pcmaster_6.21_full.zip
 
@@ -56,8 +60,6 @@ https://www.ccava.net/post/787.html 360极速浏览器11.0.1331.0 绿色精简�
 https://www.google.cn/intl/en-us/chrome/beta/?system=true&standalone=1&platform=win Beta 73
 
 https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platform=WIN64_MSI&channel=stable&usagestats=0 chrome msi
-
-https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platform=WIN64_MSI&channel=stable&usagestats=0
 
 https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 66
 
@@ -90,8 +92,6 @@ https://nchc.dl.sourceforge.net/project/orphamielautoclicker/AutoClicker.exe Aut
 http://www.sordum.org/files/bluelife-host-editor/bl_hst_edit.zip
 
 https://www.sordum.org/11081/hide-from-uninstall-list-v1-0/ HideUL
-
-http://downloads.wisecleaner.com/soft/WPMSetup.exe
 
 https://www.sordum.org/files/small-tools/TopMost.zip
 
