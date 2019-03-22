@@ -21,15 +21,15 @@ http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
 https://www.lanzous.com/i321dva PC Hunter
 
+https://www.lanzous.com/b24931/ Uninstall Tool
+
+https://www.lanzous.com/b22558/ CCleaner https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
+
 https://shuax.com/project/mouseinc/ GreenChrome
 
 https://zyhh.me/delphi/taskbarhider.html TaskBarHider V0.0.5
 
 https://www.chuyu.me Dism++
-
-https://www.lanzous.com/b24931/ Uninstall Tool
-
-https://www.lanzous.com/b22558/ CCleaner https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
 
 https://www.7-zip.org/a/7z1900-x64.exe 7-zip 19
 
