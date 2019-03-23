@@ -120,6 +120,7 @@ https://www.google.com/search?q=%s
 http://120.198.248.229/cache/down.sandai.net/thunderx/XunLeiSetup10.1.10.348.exe?ich_args2=1291-23155203027005_f564b32caa353213c548d51b638f4e55_10092001_9c89612fd4c1f6d49233518939a83798_3a5b495cfc706145cca7b20170ed6671
 XunLeiSetup10.1.10.348.exe
 
+http://down.sandai.net/thunderspeed/ThunderSpeed1.0.35.366.exe ThunderSpeed1.0.35.366.exe
 
 
 
