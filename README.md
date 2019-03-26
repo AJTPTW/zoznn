@@ -34,6 +34,11 @@ https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 73
 
 https://www.google.cn/intl/en-us/chrome/beta/?system=true&standalone=1&platform=win Beta 74 V8 version 7.4
 
+https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 66
+
+https://www.mozilla.org/en-US/firefox/beta/all/?q=Chinese Firefox Beta 67
+
+https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
 http://cdn.qq.ime.sogou.com/8e8cb8ad3011eb4069623ca34c656942/5c91ad1a/QQPinyin_Setup_6.1.5306.400.exe QQ拼音 48.9MB http://qq.pinyin.cn/
 
@@ -52,16 +57,9 @@ https://mofang.ruanmei.com/ 软媒魔方官网https://d.ruanmei.com/pcmaster/pcm
 
 https://www.wintools.info/Download/integritydl.exe  Integrity Downloader
 
-https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
-
 https://www.ccava.net/post/787.html 360极速浏览器11.0.1331.0 绿色精简优化便携版
 
-
 https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platform=WIN64_MSI&channel=stable&usagestats=0 chrome msi
-
-https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 66
-
-https://www.mozilla.org/en-US/firefox/beta/all/?q=Chinese Firefox Beta 67
 
 https://github.com/haotian-wang/google-access-helper/releases
 
