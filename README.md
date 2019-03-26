@@ -19,7 +19,7 @@ http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
 http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
-https://www.lanzous.com/i321dva PC Hunter
+https://www.lanzous.com/i321dva PC Hunter http://www.epoolsoft.com/ http://www.xuetr.com/
 
 https://www.lanzous.com/b24931/ Uninstall Tool
 
