@@ -4,16 +4,7 @@
 
 > https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 
-> http://tmp.link/d/5c13d121c0f3d
-
-> http://tmp.link/f/5c13d121c0f3d
-
-> https://drop.me/MDmLzm
-
-> https://dl.drop.me/download/oK8dxdU7kw98aGTY2V0IotAjLtNxhx5PEgCWTD2jQ8A=
-
 > https://bayfiles.com/SaVcY8m2b3 
-
 
 http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
