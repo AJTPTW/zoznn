@@ -40,6 +40,8 @@ https://www.mozilla.org/en-US/firefox/beta/all/?q=Chinese Firefox Beta 67
 
 https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
+https://www.lanzous.com/b294582/#7ir9 Flash.Player
+
 http://cdn.qq.ime.sogou.com/8e8cb8ad3011eb4069623ca34c656942/5c91ad1a/QQPinyin_Setup_6.1.5306.400.exe QQ拼音 48.9MB http://qq.pinyin.cn/
 
 http://dl.sz.baidu.com/ime/setup/BaiduWubiSetup_1.2.0.66.exe 百度五笔输入法 6.58MB http://wubi.baidu.com/
