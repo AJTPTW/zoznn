@@ -10,13 +10,15 @@ http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
 http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
-https://www.lanzous.com/i321dva PC Hunter http://www.epoolsoft.com/ http://www.xuetr.com/
+> https://www.lanzous.com/i321dva PC Hunter http://www.epoolsoft.com/ http://www.xuetr.com/
 
 https://www.lanzous.com/i2hy0sb Uninstall Tool https://www.crystalidea.com/uninstall-tool/download
 
 https://www.lanzous.com/b22558/ CCleaner https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
 
-https://shuax.com/project/mouseinc/ GreenChrome
+https://www.glarysoft.com/glary-utilities/ Glary Utilities
+
+> https://shuax.com/project/mouseinc/ GreenChrome
 
 https://zyhh.me/delphi/taskbarhider.html TaskBarHider V0.0.5
 
@@ -30,7 +32,7 @@ https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe Everything https://
 
 https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.huorong.cn 
 
-https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 73
+> https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 73
 
 https://www.google.cn/intl/en-us/chrome/beta/?system=true&standalone=1&platform=win Beta 74 V8 version 7.4
 
