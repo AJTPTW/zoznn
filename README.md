@@ -55,7 +55,9 @@ http://cdn2.ime.sogou.com/dl/index/1510799567/sogou_wubi_31a.exe 搜狗五笔输
 
 https://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.5.5009.0.exe 百度拼音输入法 43.3MB https://shurufa.baidu.com/
 
-https://bbs.twinkstar.com/forum.php?mod=viewthread&tid=43&extra=page%3D1 星愿浏览器：Twinkstar_v4.11.2000.1901
+https://bbs.twinkstar.com/forum.php?mod=viewthread&tid=43&extra=page%3D1 星愿浏览器 
+
+https://www.chrome666.com/chrome-extension/pojie_youku_qq_iqiyi.html 视频下载
 
 https://mofang.ruanmei.com/ 软媒魔方官网https://d.ruanmei.com/pcmaster/pcmaster_6.21_full.zip
 
