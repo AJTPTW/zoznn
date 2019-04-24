@@ -32,9 +32,9 @@ https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe Everything https://
 
 https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.huorong.cn 
 
-https://tools.shuax.com/chrome/#/
-
-> https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 74 V8 7.4.288.25
+> https://tools.shuax.com/chrome/#/
+> https://api.i-meto.com/chrome.page
+https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 74 V8 7.4.288.25
 
 https://www.google.cn/intl/en-us/chrome/beta/?system=true&standalone=1&platform=win Beta 74 V8 version 7.4
 
