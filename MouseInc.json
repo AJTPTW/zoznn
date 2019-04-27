@@ -349,8 +349,15 @@
 			"Name": "",
 			"Sign": "DOWN-RIGHT",
 			"Valid": true
+		}, {
+			"Actions": [
+				["SendKeys", "F11"]
+			],
+			"Name": "全屏",
+			"Sign": "RIGHT-UP",
+			"Valid": true
 		}],
-		"Match": ["Chrome.exe", "Firefox.exe", "MicrosoftEdge.exe", "iexplore.exe"],
+		"Match": ["Chrome.exe", "Firefox.exe", "MicrosoftEdge.exe", "iexplore.exe", "360chrome.exe"],
 		"Name": "浏览器"
 	}, {
 		"List": [{
@@ -459,7 +466,7 @@
 		],
 		"Name": "搜索选中文字",
 		"Sign": "S",
-		"Valid": true
+		"Valid": false
 	}, {
 		"Actions": [
 			["SendKeys", "Ctrl+C"],
@@ -467,14 +474,14 @@
 		],
 		"Name": "ping选中地址",
 		"Sign": "P",
-		"Valid": true
+		"Valid": false
 	}, {
 		"Actions": [
 			["Execute", "notepad.exe %systemroot%\\system32\\drivers\\etc\\hosts", "admin"]
 		],
 		"Name": "编辑hosts",
 		"Sign": "h",
-		"Valid": true
+		"Valid": false
 	}, {
 		"Actions": [
 			["Execute", "Calc"]
@@ -488,21 +495,21 @@
 		],
 		"Name": "截图参考",
 		"Sign": "SQUARE",
-		"Valid": true
+		"Valid": false
 	}, {
 		"Actions": [
 			["Screenshot", "OCR"]
 		],
 		"Name": "OCR",
 		"Sign": "SQUARE 2",
-		"Valid": true
+		"Valid": false
 	}, {
 		"Actions": [
 			["Internal", "Exit"]
 		],
 		"Name": "退出MouseInc",
 		"Sign": "W",
-		"Valid": true
+		"Valid": false
 	}, {
 		"Actions": [
 			["Internal", "Exclude"]
