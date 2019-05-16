@@ -40,7 +40,7 @@ https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 66
 
 https://www.mozilla.org/en-US/firefox/beta/all/?q=Chinese Firefox Beta 67
 
-https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
+## https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
 https://www.lanzous.com/b294582/#7ir9 Flash.Player
 
