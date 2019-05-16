@@ -1,5 +1,5 @@
 {
-  "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.27 Safari/537.36",
+  "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.38 Safari/537.36",
   "yawf": "Yet Another Weibo Filter",
   "ver": "3.7.498",
   "gm": "Tampermonkey4.8.41",
@@ -250,7 +250,7 @@
     "weibo.tool.showAllMsgNav": false,
     "weibo.tool.showAllGroup": true,
     "weibo.tool.mergeColumns.side": "right",
-    "weibo.tool.mergeColumns": false,
+    "weibo.tool.mergeColumns": true,
     "weibo.tool.chose_side.side": "right",
     "weibo.tool.chose_side": false,
     "weibo.tool.filte_right_topic": false,
