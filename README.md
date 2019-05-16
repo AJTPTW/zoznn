@@ -1,38 +1,34 @@
 用 技 术 做 一 些 你 感 兴 趣 的 事 情
-
-**https://github.com/AJTPTW/zoznn/archive/master.zip**
-
 > https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 > https://bayfiles.com/SaVcY8m2b3 https://drop.me/ http://tmp.link/
+
+**https://github.com/AJTPTW/zoznn/archive/master.zip**
 
 http://www.sordum.org/files/firewall-app-blocker/fab.zip Firewall App Blocker
 
 http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
-> https://www.lanzous.com/i321dva PC Hunter http://www.epoolsoft.com/ http://www.xuetr.com/
+ https://www.lanzous.com/i321dva PC Hunter http://www.epoolsoft.com/ http://www.xuetr.com/
 
 https://www.lanzous.com/i2hy0sb Uninstall Tool https://www.crystalidea.com/uninstall-tool/download
 
 https://www.lanzous.com/b22558/ CCleaner https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
 
-https://www.glarysoft.com/glary-utilities/ Glary Utilities
-
-> https://shuax.com/project/mouseinc/ GreenChrome
+https://shuax.com/project/mouseinc/ GreenChrome
 
 https://zyhh.me/delphi/taskbarhider.html TaskBarHider V0.0.5
 
 https://www.chuyu.me Dism++
 
-https://www.7-zip.org/a/7z1900-x64.exe 7-zip 19
-
-http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
-
-https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe Everything https://www.voidtools.com 
+>https://www.7-zip.org/a/7z1900-x64.exe 7-zip 19
+>http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
+>https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe Everything https://www.voidtools.com 
 
 https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.huorong.cn 
 
+https://www.glarysoft.com/glary-utilities/ Glary Utilities
 > https://tools.shuax.com/chrome/#/
-https://api.i-meto.com/chrome.page
+>https://api.i-meto.com/chrome.page
 
 https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 74 V8 7.4
 
