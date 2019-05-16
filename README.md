@@ -23,12 +23,13 @@ https://www.chuyu.me Dism++
 >https://www.7-zip.org/a/7z1900-x64.exe 7-zip 19
 
 >http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
+
 >https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe Everything https://www.voidtools.com 
 
 https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.huorong.cn 
 
 https://www.glarysoft.com/glary-utilities/ Glary Utilities
-> https://tools.shuax.com/chrome/#/
+>https://tools.shuax.com/chrome/#/
 >https://api.i-meto.com/chrome.page
 
 https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 74 V8 7.4
