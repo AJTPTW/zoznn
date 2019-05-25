@@ -38,7 +38,7 @@ https://www.google.cn/intl/zh-CN/chrome/beta/?system=true&standalone=1&platform=
 
 https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 67
 
-https://www.mozilla.org/en-US/firefox/beta/all/?q=Chinese Firefox Beta 67
+https://www.mozilla.org/en-US/firefox/beta/all/?q=Chinese Firefox Beta 68
 
 ## https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
