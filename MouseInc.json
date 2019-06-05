@@ -347,7 +347,7 @@
 				["SendKeys", "Ctrl+`"]
 			],
 			"Name": "",
-			"Sign": "DOWN-RIGHT",
+			"Sign": "/ DOWN",
 			"Valid": true
 		}, {
 			"Actions": [
@@ -356,6 +356,13 @@
 			"Name": "全屏",
 			"Sign": "RIGHT-UP",
 			"Valid": true
+		}, {
+			"Valid": true,
+			"Sign": "\\ DOWN",
+			"Name": "粘贴",
+			"Actions": [
+				["SendKeys", "Ctrl+V"]
+			]
 		}],
 		"Match": ["Chrome.exe", "Firefox.exe", "MicrosoftEdge.exe", "iexplore.exe", "360chrome.exe"],
 		"Name": "浏览器"
@@ -548,6 +555,7 @@
 		"TraceWidth": 3,
 		"WheelSwitch": true
 	},
+	"ShowTrayIcon": null,
 	"VolumeControlSound": true,
 	"WheelAltControl": true,
 	"WheelEdge": {
