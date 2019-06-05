@@ -1,7 +1,7 @@
 {
-  "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.38 Safari/537.36",
+  "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
   "yawf": "Yet Another Weibo Filter",
-  "ver": "3.7.498",
+  "ver": "3.7.500",
   "gm": "Tampermonkey4.8.41",
   "conf": {
     "weibo.tool.load_weibo_by_group.group": {},
@@ -15,7 +15,7 @@
     "weibo.tool.refilter": true,
     "weibo.tool.fast_block_button": false,
     "weibo.tool.block_hidden": false,
-    "weibo.tool.disable_lazyload": false,
+    "weibo.tool.disable_lazyload": true,
     "weibo.other.group_account": false,
     "weibo.other.group_same_account": false,
     "weibo.other.auto_load_new_weibo": false,
@@ -317,7 +317,6 @@
     ],
     "weibo.tool.fast_emoji": false,
     "weibo.tool.disable_desktop_notification": true,
-    "weibo.tool.message_current_page": false,
     "weibo.tool.disable_live_photo": true,
     "weibo.tool.disable_video_click_pop": true,
     "weibo.tool.no_pop_but_full_screen": false,
@@ -376,6 +375,9 @@
     "weibo.tool.color_override.transparency3": 30,
     "weibo.tool.color_override": false,
     "weibo.tool.userstyle": "",
-    "script.other.auto_complete": true
+    "script.other.auto_complete": true,
+    "weibo.tool.message_current_page": false,
+    "weibo.tool.load_weibo_by_newest": true,
+    "weibo.layoutHideLeftNewFeed": false
   }
 }
