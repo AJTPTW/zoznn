@@ -16,7 +16,7 @@ https://www.lanzous.com/i2hy0sb Uninstall Tool https://www.crystalidea.com/unins
 
 https://shuax.com/project/mouseinc/ MouseInc 2.9.1 – 耍下
 
-https://zyhh.me/delphi/taskbarhider.html TaskBarHider V0.0.5
+https://files.catbox.moe/vpe3h4.zip TaskBarHider V0.0.5 https://zyhh.me/delphi/taskbarhider.html
 
 https://www.chuyu.me Dism++
 
