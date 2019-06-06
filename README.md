@@ -20,9 +20,9 @@ https://files.catbox.moe/vpe3h4.zip TaskBarHider V0.0.5 https://zyhh.me/delphi/t
 
 https://www.chuyu.me Dism++
 
->## https://www.7-zip.org/a/7z1900-x64.exe 7zip 19
+>##https://files.catbox.moe/vkj6mj.zip 7zip 19 https://www.7-zip.org/a/7z1900-x64.exe
 
->http://downloads.wisecleaner.com/soft/WPMSetup.exe WPMSetup
+>https://files.catbox.moe/rdtg8l.zip WPMSetup http://downloads.wisecleaner.com/soft/WPMSetup.exe
 
 >https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe Everything https://www.voidtools.com 
 
