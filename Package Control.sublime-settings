@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"C:/channel_v3.json",
+		"http://www.miaoqiyuan.cn/products/proxy/channel_v3.json",
+		"https://raw.githubusercontent.com/HBLong/channel_v3_daily/master/channel_v3.json"
+		
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"Emmet",
+		"Package Control",
+		"SublimeCodeIntel",
+		"Transparency",
+		"Visual Studio Bold Color Scheme",
+		"Visual Studio Dark"
+	]
+}
+
