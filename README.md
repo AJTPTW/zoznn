@@ -34,7 +34,7 @@ https://www.glarysoft.com/glary-utilities/ Glary Utilities
 
 ## https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 75 V8 7.5
 
-https://www.google.cn/intl/zh-CN/chrome/beta/?system=true&standalone=1&platform=win Beta 75 V8 7.5
+https://www.google.cn/intl/zh-CN/chrome/beta/?system=true&standalone=1&platform=win Beta 76 V8 7.6
 
 https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 67
 
