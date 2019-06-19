@@ -1,12 +1,12 @@
 **用 技 术 做 一 些 你 感 兴 趣 的 事 情**
-
+``
 https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 
 https://bayfiles.com/SaVcY8m2b3 https://drop.me/ http://tmp.link/
-
+``
 https://github.com/AJTPTW/zoznn/archive/master.zip
 
-https://files.catbox.moe/ovk0iv.zip Firewall App Blocker http://www.sordum.org/files/firewall-app-blocker/fab.zip
+**https://files.catbox.moe/ovk0iv.zip Firewall App Blocker http://www.sordum.org/files/firewall-app-blocker/fab.zip
 
 http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
@@ -18,13 +18,13 @@ https://www.lanzous.com/i2hy0sb Uninstall Tool https://www.crystalidea.com/unins
 
 https://shuax.com/project/mouseinc/ MouseInc 2.9.1 – 耍下
 
-https://files.catbox.moe/vpe3h4.zip TaskBarHider V0.0.5 https://zyhh.me/delphi/taskbarhider.html
+**https://files.catbox.moe/vpe3h4.zip TaskBarHider V0.0.5 https://zyhh.me/delphi/taskbarhider.html
 
 https://www.chuyu.me Dism++
 
-https://files.catbox.moe/vkj6mj.zip 7zip 19https://www.7-zip.org/a/7z1900-x64.exe
+**https://files.catbox.moe/vkj6mj.zip 7zip 19https://www.7-zip.org/a/7z1900-x64.exe
 
-https://files.catbox.moe/rdtg8l.zip WPMSetuphttp://downloads.wisecleaner.com/soft/WPMSetup.exe
+**https://files.catbox.moe/rdtg8l.zip WPMSetuphttp://downloads.wisecleaner.com/soft/WPMSetup.exe
 
 https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe Everything https://www.voidtools.com 
 
