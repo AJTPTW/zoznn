@@ -81,11 +81,11 @@ https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns Autoruns for Wi
 
 net user 123 /delete
 
-##sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
+## sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
 
 sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
 
-##sc start SuperCMD
+## sc start SuperCMD
 
 net user administrator /active:yes
 
