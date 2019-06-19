@@ -1,4 +1,5 @@
 用 技 术 做 一 些 你 感 兴 趣 的 事 情
+
 https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 
 https://bayfiles.com/SaVcY8m2b3 https://drop.me/ http://tmp.link/
@@ -21,7 +22,7 @@ https://files.catbox.moe/vpe3h4.zip TaskBarHider V0.0.5 https://zyhh.me/delphi/t
 
 https://www.chuyu.me Dism++
 
->## https://files.catbox.moe/vkj6mj.zip 7zip 19https://www.7-zip.org/a/7z1900-x64.exe
+https://files.catbox.moe/vkj6mj.zip 7zip 19https://www.7-zip.org/a/7z1900-x64.exe
 
 >https://files.catbox.moe/rdtg8l.zip WPMSetuphttp://downloads.wisecleaner.com/soft/WPMSetup.exe
 
@@ -35,7 +36,7 @@ https://tools.shuax.com/chrome/#/
 
 https://api.i-meto.com/chrome.page
 
-# https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 75 V8 7.5
+#### https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 75 V8 7.5
 
 https://www.google.cn/intl/zh-CN/chrome/beta/?system=true&standalone=1&platform=win Beta 76 V8 7.6
 
@@ -43,7 +44,7 @@ https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 67
 
 https://www.mozilla.org/en-US/firefox/beta/all/?q=Chinese Firefox Beta 68
 
-## https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
+#### https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
 https://www.lanzous.com/b294582/#7ir9 Flash.Player
 
