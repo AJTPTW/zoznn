@@ -6,7 +6,7 @@ https://bayfiles.com/SaVcY8m2b3 https://drop.me/ http://tmp.link/
 ```
 https://github.com/AJTPTW/zoznn/archive/master.zip
 
-*https://files.catbox.moe/ovk0iv.zip* Firewall App Blocker http://www.sordum.org/files/firewall-app-blocker/fab.zip
+***https://files.catbox.moe/ovk0iv.zip*** Firewall App Blocker http://www.sordum.org/files/firewall-app-blocker/fab.zip
 
 http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
