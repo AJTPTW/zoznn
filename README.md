@@ -12,7 +12,7 @@ http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
 https://www.lanzous.com/b22558/ CCleaner https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
 
- https://www.lanzous.com/i321dva PC Hunter http://www.epoolsoft.com/ http://www.xuetr.com/
+https://www.lanzous.com/i321dva PC Hunter http://www.epoolsoft.com/ http://www.xuetr.com/
 
 https://www.lanzous.com/i2hy0sb Uninstall Tool https://www.crystalidea.com/uninstall-tool/download
 
@@ -24,9 +24,9 @@ https://www.chuyu.me Dism++
 
 https://files.catbox.moe/vkj6mj.zip 7zip 19https://www.7-zip.org/a/7z1900-x64.exe
 
->https://files.catbox.moe/rdtg8l.zip WPMSetuphttp://downloads.wisecleaner.com/soft/WPMSetup.exe
+https://files.catbox.moe/rdtg8l.zip WPMSetuphttp://downloads.wisecleaner.com/soft/WPMSetup.exe
 
->https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe Everything https://www.voidtools.com 
+https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe Everything https://www.voidtools.com 
 
 https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.huorong.cn 
 
@@ -36,7 +36,7 @@ https://tools.shuax.com/chrome/#/
 
 https://api.i-meto.com/chrome.page
 
-#### https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 75 V8 7.5
+### https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 75 V8 7.5
 
 https://www.google.cn/intl/zh-CN/chrome/beta/?system=true&standalone=1&platform=win Beta 76 V8 7.6
 
@@ -44,7 +44,7 @@ https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 67
 
 https://www.mozilla.org/en-US/firefox/beta/all/?q=Chinese Firefox Beta 68
 
-#### https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
+### https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
 https://www.lanzous.com/b294582/#7ir9 Flash.Player
 
