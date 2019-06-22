@@ -4,6 +4,19 @@ https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 
 https://bayfiles.com/SaVcY8m2b3 https://drop.me/ http://tmp.link/
 ```
+```
+sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
+
+sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
+
+sc start SuperCMD
+```
+net user 123 /delete
+
+net user administrator /active:yes
+
+net user administrator /active:no 
+
 https://github.com/AJTPTW/zoznn/archive/master.zip
 
 ***https://files.catbox.moe/ovk0iv.zip*** Firewall App Blocker http://www.sordum.org/files/firewall-app-blocker/fab.zip
@@ -78,18 +91,6 @@ https://github.com/haotian-wang/google-access-helper/releases
 https://laod.cn/hosts/2018-google-hosts.html
 
 https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns Autoruns for Windows v13.93
-
-net user 123 /delete
-```
-sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
-
-sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
-
-sc start SuperCMD
-```
-net user administrator /active:yes
-
-net user administrator /active:no 
 
 %AppData%\Microsoft\Internet Explorer\Quick Launch
 
