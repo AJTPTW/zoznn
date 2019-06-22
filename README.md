@@ -49,15 +49,15 @@ https://tools.shuax.com/chrome/#/
 
 https://api.i-meto.com/chrome.page
 
-### https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 75 V8 7.5
+### https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 75 
 
-### https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win Beta 76 V8 7.6
-
-https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 67
-
-https://www.mozilla.org/en-US/firefox/beta/all/?q=Chinese Firefox Beta 68
+### https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win Beta 76 
 
 ### https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
+
+https://www.mozilla.org/en-US/firefox/all/ Firefox 67
+
+https://www.mozilla.org/zh-CN/firefox/all/
 
 https://www.lanzous.com/b294582/#7ir9 Flash.Player
 
