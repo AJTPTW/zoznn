@@ -38,7 +38,7 @@ https://api.i-meto.com/chrome.page
 
 ### https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 75 V8 7.5
 
-https://www.google.cn/intl/zh-CN/chrome/beta/?system=true&standalone=1&platform=win Beta 76 V8 7.6
+### https://www.google.cn/intl/zh-CN/chrome/beta/?system=true&standalone=1&platform=win Beta 76 V8 7.6
 
 https://www.mozilla.org/en-US/firefox/all/?q=Chinese Firefox 67
 
@@ -80,13 +80,13 @@ https://laod.cn/hosts/2018-google-hosts.html
 https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns Autoruns for Windows v13.93
 
 net user 123 /delete
-
-## sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
+```
+sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
 
 sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
 
-## sc start SuperCMD
-
+sc start SuperCMD
+```
 net user administrator /active:yes
 
 net user administrator /active:no 
