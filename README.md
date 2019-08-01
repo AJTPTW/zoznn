@@ -29,6 +29,8 @@ https://github.com/AJTPTW/zoznn/archive/master.zip
 
 http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
+https://codeload.github.com/haotian-wang/google-access-helper/zip/v2.3.0
+
 https://www.lanzous.com/b22558/ CCleaner https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
 
 https://www.lanzous.com/i321dva PC Hunter http://www.epoolsoft.com/ http://www.xuetr.com/
