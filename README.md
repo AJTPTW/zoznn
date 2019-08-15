@@ -37,6 +37,8 @@ https://www.lanzous.com/i321dva PC Hunter http://www.epoolsoft.com/ http://www.x
 
 https://www.lanzous.com/i2hy0sb Uninstall Tool https://www.crystalidea.com/uninstall-tool/download
 
+https://www.lanzous.com/b294582/#7ir9 Flash.Player
+
 https://shuax.com/project/mouseinc/ MouseInc 2.9.1 – 耍下
 
 https://www.chuyu.me Dism++
@@ -51,17 +53,15 @@ https://tools.shuax.com/chrome/#/
 
 https://api.i-meto.com/chrome.page
 
-### https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 75 
+### https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 76
 
-### https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win Beta 76 
+### https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win Beta 77
 
 ### https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
 https://www.mozilla.org/en-US/firefox/all/ Firefox 67
 
 https://www.mozilla.org/zh-CN/firefox/all/
-
-https://www.lanzous.com/b294582/#7ir9 Flash.Player
 
 http://cdn.qq.ime.sogou.com/8e8cb8ad3011eb4069623ca34c656942/5c91ad1a/QQPinyin_Setup_6.1.5306.400.exe QQ拼音 48.9MB http://qq.pinyin.cn/
 
