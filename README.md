@@ -19,7 +19,7 @@ net user administrator /active:no
 
 https://github.com/AJTPTW/zoznn/archive/master.zip
 
-
+https://files.catbox.moe/9ya9ng.zip 0824
 
 ***https://files.catbox.moe/ovk0iv.zip*** Firewall App Blocker http://www.sordum.org/files/firewall-app-blocker/fab.zip
 
