@@ -27,7 +27,7 @@ https://files.catbox.moe/9ya9ng.zip 0824
 
 ***https://files.catbox.moe/vkj6mj.zip*** 7zip 19https://www.7-zip.org/a/7z1900-x64.exe
 
-***https://files.catbox.moe/rdtg8l.zip*** WPMSetuphttp://downloads.wisecleaner.com/soft/WPMSetup.exe
+***https://files.catbox.moe/rdtg8l.zip*** WPMSetup http://downloads.wisecleaner.com/soft/WPMSetup.exe
 
 http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
@@ -61,7 +61,7 @@ https://api.i-meto.com/chrome.page
 
 ### https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
-https://www.mozilla.org/en-US/firefox/all/ Firefox 67
+https://www.mozilla.org/en-US/firefox/all/ Firefox 69
 
 https://www.mozilla.org/zh-CN/firefox/all/
 
