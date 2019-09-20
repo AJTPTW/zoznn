@@ -61,7 +61,7 @@ https://api.i-meto.com/chrome.page
 
 ### https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
 
-https://www.mozilla.org/en-US/firefox/all/ Firefox 69
+https://www.mozilla.org/en-US/firefox/all/ Firefox 69 https://ftp.mozilla.org/pub/firefox/releases/
 
 https://www.mozilla.org/zh-CN/firefox/all/
 
