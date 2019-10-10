@@ -3,6 +3,11 @@
 https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 
 https://bayfiles.com/SaVcY8m2b3 https://drop.me/ http://tmp.link/
+
+Windows Registry Editor Version 5.00
+ 
+[HKEY_CURRENT_USER\Software\Google\Update\ClientState\{8A69D345-D564-463c-AFF1-A69D9E530F96}]
+"ap"="x64-dev"
 ```
 ```
 sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
