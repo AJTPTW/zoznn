@@ -60,7 +60,7 @@ https://tools.shuax.com/chrome/#/
 
 https://api.i-meto.com/chrome.page
 
-### https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 77
+### https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 77   true和false
 
 ### https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win Beta 78
 
