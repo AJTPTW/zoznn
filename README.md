@@ -38,19 +38,19 @@ http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
 https://codeload.github.com/haotian-wang/google-access-helper/zip/v2.3.0 google-access-helper-2.3.0
 
-https://www.lanzous.com/b22558/ CCleaner https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
+CCleaner https://www.lanzous.com/b22558/  https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
 
-https://www.lanzous.com/i321dva PC Hunter http://www.epoolsoft.com/ http://www.xuetr.com/
+PC Hunter https://www.lanzous.com/i321dva  http://www.epoolsoft.com/ http://www.xuetr.com/
 
-https://www.lanzous.com/i2hy0sb Uninstall Tool https://www.crystalidea.com/uninstall-tool/download
+Uninstall Tool https://www.lanzous.com/i2hy0sb  https://www.crystalidea.com/uninstall-tool/download
 
-https://www.lanzous.com/b294582/#7ir9 Flash.Player
+Flash.Player https://www.lanzous.com/b294582/#7ir9 
 
-https://shuax.com/project/mouseinc/ MouseInc 2.9.1 – 耍下
+MouseInc https://shuax.com/project/mouseinc/  2.9.1 – 耍下
 
-https://www.chuyu.me Dism++
+Dism++ https://www.chuyu.me 
 
-https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe Everything https://www.voidtools.com 
+Everything https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe  https://www.voidtools.com 
 
 https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.huorong.cn 
 
@@ -60,13 +60,13 @@ https://tools.shuax.com/chrome/#/
 
 https://api.i-meto.com/chrome.page
 
-### https://www.google.cn/chrome/?system=true&standalone=1&platform=win Chrome 77   true和false
+### Chrome 77   true和false https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 
 
-### https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win64 Beta 78
+### Beta 78 https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win64 
 
-### https://bbs.360.cn/thread-15603055-1-1.html  【极速11升级至Chromium 69内核】
+### 【极速11升级至Chromium 69内核】 https://bbs.360.cn/thread-15603055-1-1.html  
 
-https://www.mozilla.org/en-US/firefox/all/ Firefox 69 https://ftp.mozilla.org/pub/firefox/releases/
+Firefox 69 https://www.mozilla.org/en-US/firefox/all/  https://ftp.mozilla.org/pub/firefox/releases/
 
 https://www.mozilla.org/zh-CN/firefox/all/
 
