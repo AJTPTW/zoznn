@@ -16,7 +16,7 @@ sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
 
 sc start SuperCMD
 ```
-net user 123 /delete
+net user 123 /delete   true false
 
 net user administrator /active:yes
 
@@ -34,9 +34,7 @@ https://files.catbox.moe/9ya9ng.zip 0824
 
 ***https://files.catbox.moe/rdtg8l.zip*** WPMSetup http://downloads.wisecleaner.com/soft/WPMSetup.exe
 
-http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
-
-https://codeload.github.com/haotian-wang/google-access-helper/zip/v2.3.0 google-access-helper-2.3.0
+google-access-helper-2.3.0 https://codeload.github.com/haotian-wang/google-access-helper/zip/v2.3.0 
 
 Cleaner https://www.lanzous.com/b22558/  https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
 
@@ -52,7 +50,7 @@ Dism++ https://www.chuyu.me
 
 Everything https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe  https://www.voidtools.com 
 
-### Chrome77 true false https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 
+### Chrome77  https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 
 
 ### Beta 78 https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win64 
 
@@ -69,6 +67,8 @@ https://api.i-meto.com/chrome.page
 Firefox 69 https://www.mozilla.org/en-US/firefox/all/  https://ftp.mozilla.org/pub/firefox/releases/
 
 https://www.mozilla.org/zh-CN/firefox/all/
+
+http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
 http://cdn.qq.ime.sogou.com/8e8cb8ad3011eb4069623ca34c656942/5c91ad1a/QQPinyin_Setup_6.1.5306.400.exe QQ拼音 48.9MB http://qq.pinyin.cn/
 
