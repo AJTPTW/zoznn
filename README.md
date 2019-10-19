@@ -24,7 +24,7 @@ net user administrator /active:no
 
 https://files.catbox.moe/9ya9ng.zip 0824
 
-https://github.com/AJTPTW/zoznn/archive/master.zip
+### https://github.com/AJTPTW/zoznn/archive/master.zip
 
 google-access-helper-2.3.0 https://codeload.github.com/haotian-wang/google-access-helper/zip/v2.3.0 
 
@@ -36,19 +36,19 @@ google-access-helper-2.3.0 https://codeload.github.com/haotian-wang/google-acces
 
 ***https://files.catbox.moe/rdtg8l.zip*** WPMSetup http://downloads.wisecleaner.com/soft/WPMSetup.exe
 
-### Cleaner https://www.lanzous.com/b22558/  https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
+Cleaner https://www.lanzous.com/b22558/  https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
 
-### PC Hunter https://www.lanzous.com/i321dva http://www.epoolsoft.com/ http://www.xuetr.com/
+PC Hunter https://www.lanzous.com/i321dva http://www.epoolsoft.com/ http://www.xuetr.com/
 
-### Uninstall Tool https://www.lanzous.com/i2hy0sb  https://www.crystalidea.com/uninstall-tool/download
+Uninstall Tool https://www.lanzous.com/i2hy0sb  https://www.crystalidea.com/uninstall-tool/download
 
-### Flash.Player https://www.lanzous.com/b294582/#7ir9 
+Flash.Player https://www.lanzous.com/b294582/#7ir9 
 
-### MouseInc https://shuax.com/project/mouseinc/  2.9.1 – 耍下
+MouseInc https://shuax.com/project/mouseinc/  2.9.1 – 耍下
 
-### Dism++ https://www.chuyu.me 
+Dism++ https://www.chuyu.me 
 
-### Everything https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe  https://www.voidtools.com 
+Everything https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe  https://www.voidtools.com 
 
 ### Chrome77  https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 
 
