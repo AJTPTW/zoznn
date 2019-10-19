@@ -38,7 +38,7 @@ http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
 https://codeload.github.com/haotian-wang/google-access-helper/zip/v2.3.0 google-access-helper-2.3.0
 
-CCleaner https://www.lanzous.com/b22558/  https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
+## CCleaner https://www.lanzous.com/b22558/  https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
 
 PC Hunter https://www.lanzous.com/i321dva  http://www.epoolsoft.com/ http://www.xuetr.com/
 
@@ -60,7 +60,7 @@ https://tools.shuax.com/chrome/#/
 
 https://api.i-meto.com/chrome.page
 
-### Chrome 77   true和false https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 
+### Chrome77 true false https://www.google.cn/chrome/?system=true&standalone=1&platform=win64 
 
 ### Beta 78 https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win64 
 
