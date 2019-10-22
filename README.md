@@ -8,6 +8,7 @@ Windows Registry Editor Version 5.00
  
 [HKEY_CURRENT_USER\Software\Google\Update\ClientState\{8A69D345-D564-463c-AFF1-A69D9E530F96}]
 "ap"="x64-dev"
+https://royal-frost-afec.sqzryang.workers.dev
 ```
 ```
 sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
@@ -56,7 +57,9 @@ Everything     https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe  htt
 
 ### Beta 78 https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win64 
 
-### 【极速11升级至Chromium 69内核】 https://bbs.360.cn/thread-15603055-1-1.html  
+### 【极速11升级至Chromium 69内核】 https://bbs.360.cn/thread-15603055-1-1.html
+
+### Firefox 70 https://www.mozilla.org/en-US/firefox/all/  https://ftp.mozilla.org/pub/firefox/releases/
 
 https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.huorong.cn 
 
@@ -65,8 +68,6 @@ https://www.glarysoft.com/glary-utilities/ Glary Utilities
 https://tools.shuax.com/chrome/#/
 
 https://api.i-meto.com/chrome.page
-
-### Firefox 70 https://www.mozilla.org/en-US/firefox/all/  https://ftp.mozilla.org/pub/firefox/releases/
 
 https://www.mozilla.org/zh-CN/firefox/all/
 
