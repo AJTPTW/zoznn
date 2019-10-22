@@ -28,6 +28,8 @@ https://files.catbox.moe/9ya9ng.zip 0824
 
 google-access-helper-2.3.0 https://codeload.github.com/haotian-wang/google-access-helper/zip/v2.3.0 
 
+MaterialFox https://codeload.github.com/muckSponge/MaterialFox/zip/master
+
 ***https://files.catbox.moe/ovk0iv.zip*** Firewall App Blocker http://www.sordum.org/files/firewall-app-blocker/fab.zip
 
 ***https://files.catbox.moe/vpe3h4.zip*** TaskBarHider V0.0.5 https://zyhh.me/delphi/taskbarhider.html
