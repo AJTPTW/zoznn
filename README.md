@@ -25,7 +25,7 @@ net user administrator /active:no
 
 https://files.catbox.moe/9ya9ng.zip 0824
 
-### https://github.com/AJTPTW/zoznn/archive/master.zip
+https://github.com/AJTPTW/zoznn/archive/master.zip
 
 google-access-helper-2.3.0 https://codeload.github.com/haotian-wang/google-access-helper/zip/v2.3.0 
 
