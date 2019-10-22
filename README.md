@@ -64,7 +64,7 @@ https://tools.shuax.com/chrome/#/
 
 https://api.i-meto.com/chrome.page
 
-Firefox 69 https://www.mozilla.org/en-US/firefox/all/  https://ftp.mozilla.org/pub/firefox/releases/
+### Firefox 70 https://www.mozilla.org/en-US/firefox/all/  https://ftp.mozilla.org/pub/firefox/releases/
 
 https://www.mozilla.org/zh-CN/firefox/all/
 
