@@ -59,7 +59,7 @@ Everything     https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe  htt
 
 ### 【极速11升级至Chromium 69内核】 https://bbs.360.cn/thread-15603055-1-1.html
 
-### Firefox 70 https://www.mozilla.org/en-US/firefox/all/  https://ftp.mozilla.org/pub/firefox/releases/
+### Firefox 70 https://www.mozilla.org/en-US/firefox/all/  https://ftp.mozilla.org/pub/firefox/releases/ https://www.mozilla.org/zh-CN/firefox/all/
 
 https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.huorong.cn 
 
@@ -69,7 +69,8 @@ https://tools.shuax.com/chrome/#/
 
 https://api.i-meto.com/chrome.page
 
-https://www.mozilla.org/zh-CN/firefox/all/
+Chrome 离线包 - SukkaLab
+https://chrome-dl.com/
 
 http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
