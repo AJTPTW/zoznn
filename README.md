@@ -9,6 +9,9 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Google\Update\ClientState\{8A69D345-D564-463c-AFF1-A69D9E530F96}]
 "ap"="x64-dev"
 https://royal-frost-afec.sqzryang.workers.dev
+--disable-direct-write --no-pings
+--force-dark-mode --enable-features=OverlayScrollbar --save-page-as-mhtml
+
 ```
 ```
 sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
