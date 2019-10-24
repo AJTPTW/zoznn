@@ -11,7 +11,6 @@ Windows Registry Editor Version 5.00
 https://royal-frost-afec.sqzryang.workers.dev
 --disable-direct-write --no-pings
 --force-dark-mode --enable-features=OverlayScrollbar --save-page-as-mhtml
-
 ```
 ```
 sc Create SuperCMD binPath= "cmd /K start" type= own type= interact
@@ -56,7 +55,7 @@ Dism++         https://www.chuyu.me
 
 Everything     https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe  https://www.voidtools.com 
 
-### Chrome78https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=true&platform=win64 
+### Chrome78https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
 
 ### Beta 78 https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win64 
 
