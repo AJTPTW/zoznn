@@ -13,7 +13,7 @@ https://royal-frost-afec.sqzryang.workers.dev
 --profile-directory="Guest Profile"
 --enable-features=OverlayScrollbar
 --force-dark-mode
-
+--disable-features=OmniboxUIExperimentHideSteadyStateUrlTrivialSubdomains,OmniboxUIExperimentHideSteadyStateUrlScheme
 --save-page-as-mhtml
 --disable-direct-write
 --no-pings
