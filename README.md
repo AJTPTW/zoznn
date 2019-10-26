@@ -9,9 +9,11 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Google\Update\ClientState\{8A69D345-D564-463c-AFF1-A69D9E530F96}]
 "ap"="x64-dev"
 https://royal-frost-afec.sqzryang.workers.dev
+
 --profile-directory="Guest Profile"
---force-dark-mode
 --enable-features=OverlayScrollbar
+--force-dark-mode
+
 --save-page-as-mhtml
 --disable-direct-write
 --no-pings
