@@ -60,6 +60,8 @@ MouseInc       https://shuax.com/project/mouseinc/  2.9.1 – 耍下
 
 Dism++         https://www.chuyu.me 
 
+搜狗输入法 https://pinyin.sogou.com/
+
 Everything     https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe  https://www.voidtools.com 
 
 ### Chrome78https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
