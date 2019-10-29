@@ -83,6 +83,8 @@ https://api.i-meto.com/chrome.page
 Chrome 离线包 - SukkaLab
 https://chrome-dl.com/
 
+PhotoshopCS3 v10.0 绿色极度精简版 https://www.lanzous.com/i6sz92f#3zca
+
 http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
 http://cdn.qq.ime.sogou.com/8e8cb8ad3011eb4069623ca34c656942/5c91ad1a/QQPinyin_Setup_6.1.5306.400.exe QQ拼音 48.9MB http://qq.pinyin.cn/
