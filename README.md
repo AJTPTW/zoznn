@@ -48,6 +48,14 @@ MaterialFox https://codeload.github.com/muckSponge/MaterialFox/zip/master
 
 ***https://files.catbox.moe/rdtg8l.zip*** WPMSetup http://downloads.wisecleaner.com/soft/WPMSetup.exe
 
+https://files.catbox.moe/vnh9jv.zip Everything       https://www.voidtools.com 
+
+广告净化器.rar - 蓝奏云
+https://www.lanzous.com/i70vtna
+
+净化器2.13版.rar - 蓝奏云
+https://www.lanzous.com/i71o3lg
+
 Cleaner        https://www.lanzous.com/b22558/  https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
 
 PC Hunter      https://www.lanzous.com/i321dva http://www.epoolsoft.com/ http://www.xuetr.com/
@@ -60,11 +68,6 @@ MouseInc       https://shuax.com/project/mouseinc/  2.9.1 – 耍下
 
 Dism++         https://www.chuyu.me 
 
-Everything     https://files.catbox.moe/vnh9jv.zip  https://www.voidtools.com 
-广告净化器.rar - 蓝奏云
-https://www.lanzous.com/i70vtna
-净化器2.13版.rar - 蓝奏云
-https://www.lanzous.com/i71o3lg
 
 搜狗输入法 https://pinyin.sogou.com/
 
