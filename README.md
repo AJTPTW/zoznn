@@ -106,7 +106,7 @@ QQ五笔http://cdn.qq.ime.sogou.com/ce246dc2218ac71f96096869e5e1fc74/5c91aa58/QQ
 
 百度拼音输入法https://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.5.5009.0.exe  43.3MB https://shurufa.baidu.com/
 
-星愿浏览器 https://bbs.twinkstar.com/forum.php?mod=viewthread&tid=43&extra=page%3D1 https://bbs.twinkstar.com/forum.php?mod=viewthread&tid=1126&extra=page%3D1 32位安装包
+星愿浏览器 https://bbs.twinkstar.com/forum.php?mod=viewthread&tid=43&extra=page%3D1 32位安装包 https://bbs.twinkstar.com/forum.php?mod=viewthread&tid=1126&extra=page%3D1 
 
 https://www.chrome666.com/chrome-extension/pojie_youku_qq_iqiyi.html 视频下载
 
