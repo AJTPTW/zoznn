@@ -87,12 +87,9 @@ https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.
 
 https://www.glarysoft.com/glary-utilities/ Glary Utilities
 
-https://tools.shuax.com/chrome/#/
-
-https://api.i-meto.com/chrome.page
-
 Chrome 离线包 - SukkaLab
 https://chrome-dl.com/
+https://tools.shuax.com/chrome/#/
 
 PhotoshopCS3 v10.0 绿色极度精简版 https://www.lanzous.com/i6sz92f#3zca
 
