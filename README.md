@@ -36,6 +36,8 @@ https://files.catbox.moe/9ya9ng.zip 0824
 
 https://github.com/AJTPTW/zoznn/archive/master.zip
 
+SetupVPN 3.8.1 CRX File https://www.crx4chrome.com/crx/36007/
+
 google-access-helper-2.3.0 https://codeload.github.com/haotian-wang/google-access-helper/zip/v2.3.0 
 
 MaterialFox https://codeload.github.com/muckSponge/MaterialFox/zip/master
