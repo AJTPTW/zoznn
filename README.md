@@ -98,18 +98,18 @@ PhotoshopCS3 v10.0 绿色极度精简版 https://www.lanzous.com/i6sz92f#3zca
 
 http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
-http://cdn.qq.ime.sogou.com/8e8cb8ad3011eb4069623ca34c656942/5c91ad1a/QQPinyin_Setup_6.1.5306.400.exe QQ拼音 48.9MB http://qq.pinyin.cn/
+QQ拼音http://cdn.qq.ime.sogou.com/8e8cb8ad3011eb4069623ca34c656942/5c91ad1a/QQPinyin_Setup_6.1.5306.400.exe  48.9MB http://qq.pinyin.cn/
 
-http://dl.sz.baidu.com/ime/setup/BaiduWubiSetup_1.2.0.66.exe 百度五笔输入法 6.58MB http://wubi.baidu.com/
+百度五笔输入法http://dl.sz.baidu.com/ime/setup/BaiduWubiSetup_1.2.0.66.exe  6.58MB http://wubi.baidu.com/
 
-http://cdn.qq.ime.sogou.com/ce246dc2218ac71f96096869e5e1fc74/5c91aa58/QQWubi_Setup_2.2.344.400.exe
- QQ五笔 18.5MB http://qq.pinyin.cn/index_wubi.php
+QQ五笔http://cdn.qq.ime.sogou.com/ce246dc2218ac71f96096869e5e1fc74/5c91aa58/QQWubi_Setup_2.2.344.400.exe
+  18.5MB http://qq.pinyin.cn/index_wubi.php
 
-http://cdn2.ime.sogou.com/dl/index/1510799567/sogou_wubi_31a.exe 搜狗五笔输入法 20MB http://wubi.sogou.com/?r=pinyin
+搜狗五笔输入法http://cdn2.ime.sogou.com/dl/index/1510799567/sogou_wubi_31a.exe  20MB http://wubi.sogou.com/?r=pinyin
 
-https://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.5.5009.0.exe 百度拼音输入法 43.3MB https://shurufa.baidu.com/
+百度拼音输入法https://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.5.5009.0.exe  43.3MB https://shurufa.baidu.com/
 
-https://bbs.twinkstar.com/forum.php?mod=viewthread&tid=43&extra=page%3D1 星愿浏览器 
+星愿浏览器 https://bbs.twinkstar.com/forum.php?mod=viewthread&tid=43&extra=page%3D1 
 
 https://www.chrome666.com/chrome-extension/pojie_youku_qq_iqiyi.html 视频下载
 
