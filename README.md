@@ -72,11 +72,11 @@ Dism++         https://www.chuyu.me
 QQ拼音http://qq.pinyin.cn/
 
 
-### Chrome78https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
+### Chrome78 https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
 
-Beta 78 https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win64 
+Chrome 测试版 https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win64 
 
-### 【极速11升级至Chromium 69内核】 https://bbs.360.cn/thread-15603055-1-1.html
+### 【极速11升级】 https://bbs.360.cn/thread-15603055-1-1.html
 
  .NET Framework 462 (脱机安装程序) https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=53344
 MaterialFox https://codeload.github.com/muckSponge/MaterialFox/zip/master
