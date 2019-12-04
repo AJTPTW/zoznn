@@ -40,7 +40,6 @@ SetupVPN 3.8.1 CRX File https://www.crx4chrome.com/crx/36007/
 
 google-access-helper-2.3.0 https://codeload.github.com/haotian-wang/google-access-helper/zip/v2.3.0 
 
-MaterialFox https://codeload.github.com/muckSponge/MaterialFox/zip/master
 
 ***https://files.catbox.moe/ovk0iv.zip*** Firewall App Blocker http://www.sordum.org/files/firewall-app-blocker/fab.zip
 
@@ -70,8 +69,8 @@ MouseInc       https://shuax.com/project/mouseinc/  2.9.1 – 耍下
 
 Dism++         https://www.chuyu.me 
 
+QQ拼音http://qq.pinyin.cn/
 
-搜狗输入法 https://pinyin.sogou.com/
 
 ### Chrome78https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
 
@@ -80,6 +79,7 @@ Beta 78 https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win
 ### 【极速11升级至Chromium 69内核】 https://bbs.360.cn/thread-15603055-1-1.html
 
  .NET Framework 462 (脱机安装程序) https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=53344
+MaterialFox https://codeload.github.com/muckSponge/MaterialFox/zip/master
 
 Firefox 70 https://www.mozilla.org/en-US/firefox/all/  https://ftp.mozilla.org/pub/firefox/releases/ https://www.mozilla.org/zh-CN/firefox/all/
 
@@ -95,7 +95,7 @@ PhotoshopCS3 v10.0 绿色极度精简版 https://www.lanzous.com/i6sz92f#3zca
 
 http://www.ggfwzs.com/230/chrome.zip 下载最新2.3.0版本
 
-QQ拼音http://cdn.qq.ime.sogou.com/8e8cb8ad3011eb4069623ca34c656942/5c91ad1a/QQPinyin_Setup_6.1.5306.400.exe  48.9MB http://qq.pinyin.cn/
+搜狗输入法 https://pinyin.sogou.com/
 
 百度五笔输入法http://dl.sz.baidu.com/ime/setup/BaiduWubiSetup_1.2.0.66.exe  6.58MB http://wubi.baidu.com/
 
