@@ -52,13 +52,13 @@ https://www.lanzous.com/i70vtna
 净化器2.13版.rar - 蓝奏云
 https://www.lanzous.com/i71o3lg
 
-Cleaner        https://www.lanzous.com/b22558/  https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
-PC Hunter      https://www.lanzous.com/i321dva http://www.epoolsoft.com/ http://www.xuetr.com/
-Uninstall Tool https://www.lanzous.com/i2hy0sb  https://www.crystalidea.com/uninstall-tool/download
-Flash.Player   https://www.lanzous.com/b294582/#7ir9 
-MouseInc       https://shuax.com/project/mouseinc/  2.9.1 – 耍下
-Dism++         https://www.chuyu.me 
-QQ拼音http://qq.pinyin.cn/
+*Cleaner        https://www.lanzous.com/b22558/  https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
+*PC Hunter      https://www.lanzous.com/i321dva http://www.epoolsoft.com/ http://www.xuetr.com/
+*Uninstall Tool https://www.lanzous.com/i2hy0sb  https://www.crystalidea.com/uninstall-tool/download
+*Flash.Player   https://www.lanzous.com/b294582/#7ir9 
+*MouseInc       https://shuax.com/project/mouseinc/  2.9.1 – 耍下
+*Dism++         https://www.chuyu.me 
+*QQ拼音http://qq.pinyin.cn/
 
 ### Chrome79
 https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
