@@ -67,11 +67,14 @@ Dism++         https://www.chuyu.me
 QQ拼音http://qq.pinyin.cn/
 
 
-###Chrome79### https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
+###Chrome79
+https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
+
+### 【极速11】
+https://bbs.360.cn/thread-15603055-1-1.html
 
 Chrome 测试版 https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win64 
 
-### 【极速11升级】 https://bbs.360.cn/thread-15603055-1-1.html
 
  .NET Framework 462 (脱机安装程序) https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=53344
  
