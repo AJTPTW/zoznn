@@ -67,7 +67,7 @@ Dism++         https://www.chuyu.me
 QQ拼音http://qq.pinyin.cn/
 
 
-##Chrome79## https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
+###Chrome79### https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
 
 Chrome 测试版 https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win64 
 
