@@ -54,17 +54,11 @@ https://www.lanzous.com/i71o3lg
 
 Cleaner        https://www.lanzous.com/b22558/  https://download.ccleaner.com/cctrialsetup.exe  C2YW-DJ9E-8KN2-VC6B-4ZPC
 PC Hunter      https://www.lanzous.com/i321dva http://www.epoolsoft.com/ http://www.xuetr.com/
-
 Uninstall Tool https://www.lanzous.com/i2hy0sb  https://www.crystalidea.com/uninstall-tool/download
-
 Flash.Player   https://www.lanzous.com/b294582/#7ir9 
-
 MouseInc       https://shuax.com/project/mouseinc/  2.9.1 – 耍下
-
 Dism++         https://www.chuyu.me 
-
 QQ拼音http://qq.pinyin.cn/
-
 
 ### Chrome79
 https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
@@ -74,12 +68,11 @@ https://bbs.360.cn/thread-15603055-1-1.html
 
 Chrome 测试版 https://www.google.cn/chrome/beta/?system=true&standalone=1&platform=win64 
 
-
  .NET Framework 462 (脱机安装程序) https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=53344
  
 MaterialFox https://codeload.github.com/muckSponge/MaterialFox/zip/master
 
-Firefox 70 https://www.mozilla.org/en-US/firefox/all/  https://ftp.mozilla.org/pub/firefox/releases/ https://www.mozilla.org/zh-CN/firefox/all/
+Firefox 71 https://www.mozilla.org/en-US/firefox/all/  https://ftp.mozilla.org/pub/firefox/releases/ https://www.mozilla.org/zh-CN/firefox/all/
 
 https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.huorong.cn 
 
