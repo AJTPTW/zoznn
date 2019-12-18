@@ -81,11 +81,10 @@ Chrome 测试版 https://www.google.cn/chrome/beta/?system=true&standalone=1&pla
  
 
 ### Firefox 71 
-
 https://www.mozilla.org/en-US/firefox/all/  
 https://www.mozilla.org/zh-CN/firefox/all/
-https://ftp.mozilla.org/pub/firefox/releases/ 
 
+https://ftp.mozilla.org/pub/firefox/releases/ 
 
 MaterialFox https://codeload.github.com/muckSponge/MaterialFox/zip/master
 
