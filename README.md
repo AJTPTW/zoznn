@@ -95,7 +95,7 @@ https://www.glarysoft.com/glary-utilities/ Glary Utilities
 
 ### Chrome 离线包 - SukkaLab
 https://chrome-dl.com/
-https://tools.shuax.com/chrome/#/
+https://tools.shuax.com/chrome
 
 PhotoshopCS3 v10.0 绿色极度精简版 https://www.lanzous.com/i6sz92f#3zca
 
