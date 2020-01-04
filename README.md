@@ -73,8 +73,8 @@ QQ拼音 http://qq.pinyin.cn/
 ### Chrome79
 https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
 https://www.google.cn/intl/en-us/chrome/?standalone=1
-### 【极速11】
-https://bbs.360.cn/thread-15603055-1-1.html
+### 【极速11】+https://bbs.360.cn/thread-15603055-1-1.html
+### 【1.1更新】极速浏览器升级到Chromium 78内核+https://bbs.360.cn/thread-15813666-1-1.html
 
 ### Chrome 测试版80 V8 8.0  https://www.google.cn/chrome/beta/?standalone=1
 
