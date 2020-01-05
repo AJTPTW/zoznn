@@ -76,11 +76,13 @@ https://www.google.cn/intl/en-us/chrome/?standalone=1
 ### 【极速11】+https://bbs.360.cn/thread-15603055-1-1.html
 ### 【1.1更新】极速浏览器升级到Chromium 78内核+https://bbs.360.cn/thread-15813666-1-1.html
 
-### Chrome 测试版80 V8 8.0  https://www.google.cn/chrome/beta/?standalone=1
+### Chrome 测试版80 V8 8.0  https://www.google.cn/chrome/beta/?standalone=1&platform=win64 
+### Chrome 离线包 - SukkaLab
+https://chrome-dl.com/
+https://tools.shuax.com/chrome
 
  .NET Framework 462 (脱机安装程序) https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=53344
  
-
 ### Firefox 71 
 https://www.mozilla.org/en-US/firefox/all/  
 https://www.mozilla.org/zh-CN/firefox/all/
@@ -93,9 +95,7 @@ https://www.huorong.cn/downfull4.html?1552039549 火绒安全软件 https://www.
 
 https://www.glarysoft.com/glary-utilities/ Glary Utilities
 
-### Chrome 离线包 - SukkaLab
-https://chrome-dl.com/
-https://tools.shuax.com/chrome
+
 
 PhotoshopCS3 v10.0 绿色极度精简版 https://www.lanzous.com/i6sz92f#3zca
 
