@@ -1,5 +1,7 @@
 **用 技 术 做 一 些 你 感 兴 趣 的 事 情**
 ```
+https://files.catbox.moe/9ya9ng.zip 0824
+
 https://raw.githubusercontent.com/AJTPTW/zoznn/master/win.exe
 
 https://bayfiles.com/SaVcY8m2b3 https://drop.me/ http://tmp.link/
@@ -32,7 +34,6 @@ net user administrator /active:yes
 
 net user administrator /active:no 
 
-https://files.catbox.moe/9ya9ng.zip 0824
 
 https://github.com/AJTPTW/zoznn/archive/master.zip
 
