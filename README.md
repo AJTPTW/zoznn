@@ -79,7 +79,8 @@ https://www.google.cn/intl/en-us/chrome/?standalone=1
 ### Chrome 离线包 - SukkaLab
 https://chrome-dl.com/
 https://tools.shuax.com/chrome
-
+下载 Microsoft Edge Insider Channels
+https://www.microsoftedgeinsider.com/zh-cn/download/
  .NET Framework 462 (脱机安装程序) https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=53344
  
 ### Firefox 71 
