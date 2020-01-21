@@ -81,6 +81,7 @@ https://bbs.360.cn/thread-15813666-1-1.html
 https://www.google.cn/chrome/beta/?standalone=1&platform=win64 
 ### Chrome 离线包 - SukkaLab https://chrome-dl.com/ https://tools.shuax.com/chrome
 下载Microsoft Edge完整独立脱机安装程序https://www.microsoftedgeinsider.com/enterprise Download Microsoft Edge Full Standalone Offline Installer https://www.microsoft.com/en-us/edge/business/download Alternative Download Link
+
 下载 Microsoft Edge Insider Channels
 https://www.microsoftedgeinsider.com/zh-cn/download/
 
