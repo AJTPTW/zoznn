@@ -87,7 +87,7 @@ Chrome 离线包下载https://chrome-dl.com/ https://tools.shuax.com/chrome
 下载 Microsoft Edge Insider Channels
 https://www.microsoftedgeinsider.com/zh-cn/download/
 
- .NET Framework 462 (脱机安装程序) https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=53344语言包(脱机安装程序)https://www.microsoft.com/zh-CN/download/details.aspx?id=53323
+ .NET Framework 462 (脱机安装程序) https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=53344 语言包(脱机安装程序)https://www.microsoft.com/zh-CN/download/details.aspx?id=53323
  
  Download .NET Framework https://dotnet.microsoft.com/download/dotnet-framework
  
