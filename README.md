@@ -84,7 +84,8 @@ https://www.microsoftedgeinsider.com/zh-cn/download/
  .NET Framework 462 (脱机安装程序) https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=53344
  
  Download .NET Framework https://dotnet.microsoft.com/download/dotnet-framework
-
+ 
+ Microsoft Visual C++ Redistributable https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads
 ### Firefox 71 
 https://www.mozilla.org/en-US/firefox/all/  
 https://www.mozilla.org/zh-CN/firefox/all/
