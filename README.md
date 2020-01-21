@@ -71,8 +71,8 @@ Dism++ https://www.chuyu.me
 QQ拼音 http://qq.pinyin.cn/
 
 ### Chrome79
-https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
-https://www.google.cn/intl/en-us/chrome/?standalone=1
+https://www.google.cn/intl/zh-CN/chrome/?standalone=1&platform=win64 &system=false en-us
+
 ### 【极速11】
 https://bbs.360.cn/thread-15603055-1-1.html
 ### 【1.1更新】极速浏览器升级到Chromium 78内核
