@@ -73,9 +73,12 @@ QQ拼音 http://qq.pinyin.cn/
 ### Chrome79
 https://www.google.cn/intl/zh-CN/chrome/?standalone=1 &system=false&platform=win 
 https://www.google.cn/intl/en-us/chrome/?standalone=1
-### 【极速11】+https://bbs.360.cn/thread-15603055-1-1.html
-### 【1.1更新】极速浏览器升级到Chromium 78内核+https://bbs.360.cn/thread-15813666-1-1.html
-### Chrome 测试版80 V8 8.0  https://www.google.cn/chrome/beta/?standalone=1&platform=win64 
+### 【极速11】
+https://bbs.360.cn/thread-15603055-1-1.html
+### 【1.1更新】极速浏览器升级到Chromium 78内核
+https://bbs.360.cn/thread-15813666-1-1.html
+### Chrome 测试版80 V8 8.0  
+https://www.google.cn/chrome/beta/?standalone=1&platform=win64 
 ### Chrome 离线包 - SukkaLab https://chrome-dl.com/ https://tools.shuax.com/chrome
 下载Microsoft Edge完整独立脱机安装程序https://www.microsoftedgeinsider.com/enterprise Download Microsoft Edge Full Standalone Offline Installer https://www.microsoft.com/en-us/edge/business/download Alternative Download Link
 下载 Microsoft Edge Insider Channels
