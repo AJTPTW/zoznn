@@ -85,13 +85,9 @@ https://www.google.cn/chrome/beta/?standalone=1&platform=win64
 Chrome 离线包下载https://chrome-dl.com/ https://tools.shuax.com/chrome
 
 下载Microsoft Edge完整独立脱机安装程序https://www.microsoft.com/en-us/edge/business/download Microsoft Edge Browser
-https://www.microsoft.com/en-us/edge 下载Microsoft Edge Insider Channelshttps://www.microsoftedgeinsider.com/zh-cn/download/
+https://www.microsoft.com/en-us/edge 下载Microsoft Edge Insider Channels https://www.microsoftedgeinsider.com/zh-cn/download/
 
- .NET Framework 462 (脱机安装程序) https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=53344 语言包(脱机安装程序)https://www.microsoft.com/zh-CN/download/details.aspx?id=53323
- 
- Download .NET Framework https://dotnet.microsoft.com/download/dotnet-framework
- 
- Microsoft Visual C++ Redistributable https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads
+ .NET Framework 462 (脱机安装程序) https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=53344 语言包(脱机安装程序)https://www.microsoft.com/zh-CN/download/details.aspx?id=53323 Download .NET Framework https://dotnet.microsoft.com/download/dotnet-framework Microsoft Visual C++ Redistributable https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads
 ### Firefox 74
 https://www.mozilla.org/en-US/firefox/all/  
 https://www.mozilla.org/zh-CN/firefox/all/
