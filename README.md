@@ -84,8 +84,8 @@ https://www.google.cn/chrome/beta/?standalone=1&platform=win64
 
 Chrome 离线包下载https://chrome-dl.com/ https://tools.shuax.com/chrome
 
-下载Microsoft Edge完整独立脱机安装程序https://www.microsoftedgeinsider.com/enterprise Download Microsoft Edge Full Standalone Offline Installer https://www.microsoft.com/en-us/edge/business/download Alternative Download Link
-
+下载Microsoft Edge完整独立脱机安装程序https://www.microsoftedgeinsider.com/enterprise Download MicrosoftDownload New Microsoft Edge Browser
+https://www.microsoft.com/en-us/edge
 下载 Microsoft Edge Insider Channels
 https://www.microsoftedgeinsider.com/zh-cn/download/
 
