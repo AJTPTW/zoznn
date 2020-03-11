@@ -72,14 +72,14 @@ Dism++ https://www.chuyu.me
 
 QQ拼音 http://qq.pinyin.cn/
 
-### Chrome79
+### Chrome80
 https://www.google.cn/intl/zh-CN/chrome/?standalone=1&platform=win64 &system=false en-us
 
 ### 【极速11】
 https://bbs.360.cn/thread-15603055-1-1.html
 ### 【1.1更新】极速浏览器升级到Chromium 78内核
 https://bbs.360.cn/thread-15813666-1-1.html
-### Chrome 测试版80 V8 8.0  
+### Chrome 测试版81
 https://www.google.cn/chrome/beta/?standalone=1&platform=win64 
 
 Chrome 离线包下载https://chrome-dl.com/ https://tools.shuax.com/chrome
@@ -94,7 +94,7 @@ https://www.microsoftedgeinsider.com/zh-cn/download/
  Download .NET Framework https://dotnet.microsoft.com/download/dotnet-framework
  
  Microsoft Visual C++ Redistributable https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads
-### Firefox 71 
+### Firefox 74
 https://www.mozilla.org/en-US/firefox/all/  
 https://www.mozilla.org/zh-CN/firefox/all/
 
