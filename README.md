@@ -14,9 +14,9 @@ Windows Registry Editor Version 5.00
 https://royal-frost-afec.sqzryang.workers.dev
 
 --profile-directory="Guest Profile"
---user-data-dir=234 
---enable-features=OverlayScrollbar 
---disable-features=OmniboxUIExperimentHideSteadyStateUrlTrivialSubdomains,
+ --user-data-dir=234 
+ --enable-features=OverlayScrollbar 
+ --disable-features=OmniboxUIExperimentHideSteadyStateUrlTrivialSubdomains,
 OmniboxUIExperimentHideSteadyStateUrlScheme 
 --force-dark-mode
 
