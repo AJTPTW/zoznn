@@ -1,4 +1,9 @@
 {
+	"Administrator": null,
+	"AltDrag": null,
+	"AutoClip": true,
+	"CapsLockLed": true,
+	"CapsUnlock": true,
 	"ClipboardManager": {
 		"Menu": [{
 			"Actions": [
@@ -172,6 +177,37 @@
 		"Data": [155, 17, 155, 27, 155, 39, 156, 49, 156, 59, 157, 71, 157, 81, 158, 91, 159, 101, 160, 111, 147, 115, 137, 115, 126, 115, 115, 115, 100, 115, 89, 115, 79, 115, 69, 115, 59, 115, 49, 115, 46, 105, 44, 95, 43, 85, 43, 74, 42, 64, 40, 54, 39, 44, 38, 34, 38, 24, 46, 18, 56, 16, 66, 13, 76, 12, 86, 11, 96, 11, 106, 11, 116, 11, 127, 10, 137, 9, 147, 9],
 		"Sign": "SQUARE 2"
 	}],
+	"HotCorner": {
+		"BottomLeft": {
+			"Actions": [
+				["SendKeys", "Win"]
+			],
+			"Name": "开始菜单",
+			"Valid": true
+		},
+		"BottomRight": {
+			"Actions": [
+				["SendKeys", "Win+D"]
+			],
+			"Name": "显示桌面",
+			"Valid": true
+		},
+		"Open": false,
+		"TopLeft": {
+			"Actions": [
+				["SendKeys", "Win+Tab"]
+			],
+			"Name": "切换桌面",
+			"Valid": true
+		},
+		"TopRight": {
+			"Actions": [
+				["SendKeys", "Alt+F4"]
+			],
+			"Name": "关闭程序",
+			"Valid": false
+		}
+	},
 	"Hotkeys": [{
 		"Actions": [
 			["ScreenshotHQ", "ToFile", "DrawCursor|TransparencyGrid"]
@@ -192,6 +228,7 @@
 		"Valid": true
 	}],
 	"IgnoreFullScreen": false,
+	"KeySound": null,
 	"Keycast": {
 		"BackgroundColor": "#353535",
 		"Fade": 5,
@@ -286,6 +323,7 @@
 		}
 	},
 	"MatchCustom": [{
+		"IgnoreGlobal": null,
 		"List": [{
 			"Actions": [
 				["SendKeys", "Home"]
@@ -357,16 +395,17 @@
 			"Sign": "RIGHT-UP",
 			"Valid": true
 		}, {
-			"Valid": true,
-			"Sign": "\\ DOWN",
-			"Name": "粘贴",
 			"Actions": [
 				["SendKeys", "Ctrl+V"]
-			]
+			],
+			"Name": "粘贴",
+			"Sign": "\\ DOWN",
+			"Valid": true
 		}],
 		"Match": ["Chrome.exe", "Firefox.exe", "MicrosoftEdge.exe", "iexplore.exe", "360chrome.exe"],
 		"Name": "浏览器"
 	}, {
+		"IgnoreGlobal": null,
 		"List": [{
 			"Actions": [
 				["SendKeys", "Ctrl+Shift+N"]
@@ -385,6 +424,7 @@
 		"Match": ["Chrome.exe"],
 		"Name": "Chrome"
 	}, {
+		"IgnoreGlobal": null,
 		"List": [{
 			"Actions": [
 				["SendKeys", "Ctrl+Shift+P"]
@@ -502,14 +542,14 @@
 		],
 		"Name": "截图参考",
 		"Sign": "SQUARE",
-		"Valid": false
+		"Valid": true
 	}, {
 		"Actions": [
 			["Screenshot", "OCR"]
 		],
 		"Name": "OCR",
 		"Sign": "SQUARE 2",
-		"Valid": false
+		"Valid": true
 	}, {
 		"Actions": [
 			["Internal", "Exit"]
