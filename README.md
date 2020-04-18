@@ -76,7 +76,7 @@ QQ拼音 http://qq.pinyin.cn/
 ### Chrome 测试版 83 https://www.google.cn/chrome/beta/?standalone=1&platform=win64 
 ### 【极速11】https://bbs.360.cn/thread-15603055-1-1.html
 ### 【极速12】78内核https://bbs.360.cn/thread-15813666-1-1.html
-
+### 软媒魔方6.23https://mofang.ruanmei.com/ 标准版安装包 26.3MB  完整版安装包 37.2MB 免安装绿色完整版 41.6MB
 Chrome 离线包下载https://chrome-dl.com/ https://tools.shuax.com/chrome
 
 下载Microsoft Edge完整独立脱机安装程序https://www.microsoft.com/en-us/edge/business/download Microsoft Edge Browser
