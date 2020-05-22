@@ -1,6 +1,4 @@
 **用 技 术 做 一 些 你 感 兴 趣 的 事 情**
-https://yunpan.360.cn/surl_yxrHvS4vbKM
-https://yunpan.360.cn/surl_yxWvHAWzBq4
 
 ```
 https://files.catbox.moe/9ya9ng.zip 0824
@@ -45,7 +43,7 @@ google-access-helper-2.3.0 https://codeload.github.com/haotian-wang/google-acces
 
 ***https://files.catbox.moe/ovk0iv.zip*** Firewall App Blocker http://www.sordum.org/files/firewall-app-blocker/fab.zip
 
-***https://files.catbox.moe/vkj6mj.zip*** 7zip 19 https://www.7-zip.org/a/7z1900-x64.exe
+***https://files.catbox.moe/vkj6mj.zip*** 7zip 19 https://www.7-zip.org
 
 ***https://files.catbox.moe/rdtg8l.zip*** WPMSetup http://downloads.wisecleaner.com/soft/WPMSetup.exe
 
@@ -72,8 +70,8 @@ Dism++ https://www.chuyu.me
 
 QQ拼音 http://qq.pinyin.cn/
 
-### Chrome 81 https://www.google.cn/intl/zh-CN/chrome/?platform=win64&standalone=1 &system=false en-us
-### Chrome 测试版 83 https://www.google.cn/chrome/beta/?standalone=1&platform=win64 
+### Chrome 83 https://www.google.cn/intl/zh-CN/chrome/?platform=win64&standalone=1 &system=false en-us
+### Chrome 测试版 84 https://www.google.cn/chrome/beta/?standalone=1&platform=win64 
 ### 【极速11】https://bbs.360.cn/thread-15603055-1-1.html
 ### 【极速12】78内核https://bbs.360.cn/thread-15813666-1-1.html
 ### 软媒魔方6.23https://mofang.ruanmei.com/ 标准版安装包 26.3MB  完整版安装包 37.2MB 免安装绿色完整版 41.6MB
