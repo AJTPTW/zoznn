@@ -41,7 +41,7 @@ SetupVPN CRX File https://www.crx4chrome.com/crx/36007/
 google-access-helper-2.3.0 https://codeload.github.com/haotian-wang/google-access-helper/zip/v2.3.0 
 
 
-**https://files.catbox.moe/ovk0iv.zip** Firewall App Blocker http://www.sordum.org/files/firewall-app-blocker/fab.zip
+**https://files.catbox.moe/ovk0iv.zip** Firewall App Blocker https://www.sordum.org/8125/firewall-app-blocker-fab-v1-7/ http://www.sordum.org/files/firewall-app-blocker/fab.zip
 
 ***https://files.catbox.moe/vkj6mj.zip*** 7zip 19 https://www.7-zip.org
 
@@ -80,7 +80,7 @@ Chrome 离线包下载https://chrome-dl.com/ https://tools.shuax.com/chrome
 下载Microsoft Edge完整独立脱机安装程序https://www.microsoft.com/en-us/edge/business/download Microsoft Edge Browser
 https://www.microsoft.com/en-us/edge 下载Microsoft Edge Insider Channels https://www.microsoftedgeinsider.com/zh-cn/download/
 
- .NET Framework 462 (脱机安装程序) https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=53344 语言包(脱机安装程序)https://www.microsoft.com/zh-CN/download/details.aspx?id=53323 Download .NET Framework https://dotnet.microsoft.com/download/dotnet-framework Microsoft Visual C++ Redistributable https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads
+.NET Framework 462 (脱机安装程序) https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=53344 语言包(脱机安装程序)https://www.microsoft.com/zh-CN/download/details.aspx?id=53323 Download .NET Framework https://dotnet.microsoft.com/download/dotnet-framework Microsoft Visual C++ Redistributable https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads
 ### Firefox 75
 https://www.mozilla.org/en-US/firefox/all/  
 https://www.mozilla.org/zh-CN/firefox/all/
@@ -124,7 +124,7 @@ https://cloud.google.com/chrome-enterprise/browser/download/thankyou.html?platfo
 
 https://github.com/haotian-wang/google-access-helper/releases
 
- http://download.se.360.cn/ext/googlehelp_2.1.9.crx 可在线安装2.1.9版本
+http://download.se.360.cn/ext/googlehelp_2.1.9.crx 可在线安装2.1.9版本
 
 https://laod.cn/hosts/2018-google-hosts.html
 
